@@ -145,7 +145,23 @@ function Overview({ sc, tree }: { sc: Scenario | null; tree: Tree }) {
           <ul>{sc.refs.map((r) => <li key={r.u}><a href={r.u} target="_blank" rel="noreferrer">{r.t} ↗</a></li>)}</ul>
         </section>
       )}
+      <Credits />
     </div>
+  );
+}
+
+function Credits() {
+  return (
+    <section className="block credits">
+      <h3 className="block-h">자료 출처</h3>
+      <p>
+        국경: <a href="https://icr.ethz.ch/data/cshapes/" target="_blank" rel="noreferrer">CShapes 2.0</a> (Schvitz 외, CC BY-NC-SA 4.0)을 바탕으로
+        병합·점령 지역과 전선을 직접 그렸습니다. 지형·하천·철도: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noreferrer">Natural Earth</a>.
+        지명 좌표: <a href="https://www.geonames.org/" target="_blank" rel="noreferrer">GeoNames</a> (CC BY 4.0).
+        지휘관 사진: 위키미디어 공용 (사진마다 저작자·라이선스 표기). 전투서열: 위키백과 각 문서와 표준 전사.
+      </p>
+      <p>경계·전선·부대 위치는 10–30 km 수준의 근사치입니다. 나치 독일의 군기는 역사 고증을 위해서만 표시하며, 레이어 메뉴에서 발칸크로이츠로 바꿀 수 있습니다.</p>
+    </section>
   );
 }
 

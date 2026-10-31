@@ -52,8 +52,7 @@ scripts/          데이터 빌드 파이프라인 (Python + Node)
 
 ```bash
 pip install shapely numpy pillow
-# 원본: Natural Earth 10m(land, lakes, rivers, railroads, admin 0/1), NE1_50M_SR_W 래스터,
-#       CShapes 2.0 GeoJSON, GeoNames cities1000 → .cache/src/
+scripts/fetch_sources.sh # Natural Earth 10m, NE1_50M_SR_W 래스터, CShapes 2.0, GeoNames → .cache/src/
 npm run data:base        # 육지·호수·하천·철도 → public/data/base.topo.json
 npm run data:relief      # 지형 래스터 재투영 → public/img/relief.webp
 npm run data:places      # 지명 → src/data/places.json
