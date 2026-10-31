@@ -37,7 +37,7 @@ def get(url, params=None, binary=False, tries=6):
     if params:
         url += "?" + urllib.parse.urlencode(params)
     for i in range(tries):
-        wait = 0.7 - (time.time() - _last[0])  # polite throttle
+        wait = 1.2 - (time.time() - _last[0])  # polite throttle
         if wait > 0:
             time.sleep(wait)
         _last[0] = time.time()
@@ -164,6 +164,11 @@ def crop_portrait(data: bytes) -> Image.Image:
     return im.resize((240, 300), Image.LANCZOS)
 
 
+def save(credits):
+    with open(CREDITS, "w", encoding="utf-8") as f:
+        json.dump(dict(sorted(credits.items())), f, ensure_ascii=False, indent=1)
+
+
 def main():
     force = "--force" in sys.argv
     only = {a for a in sys.argv[1:] if not a.startswith("--")}
@@ -218,10 +223,10 @@ def main():
         im.save(OUT / f"{p['id']}.jpg", "JPEG", quality=82, optimize=True, progressive=True)
         credits[p["id"]] = {"file": f"{p['id']}.jpg", "src": fname, "page": info["page"],
                             "author": info["author"] or info["credit"], "license": info["license"], "via": src}
-        print(f" + {p['id']:16} {fname[:60]} [{info['license']}] via {src}")
+        print(f" + {p['id']:16} {fname[:60]} [{info['license']}] via {src}", flush=True)
+        save(credits)
         time.sleep(0.15)
-    with open(CREDITS, "w", encoding="utf-8") as f:
-        json.dump(dict(sorted(credits.items())), f, ensure_ascii=False, indent=1)
+    save(credits)
     print(f"done: {len(credits)} portraits, missing: {missing}")
 
 
