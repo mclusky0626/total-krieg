@@ -117,6 +117,11 @@ export function MapView() {
     if (firstSnap.current) {
       firstSnap.current = false;
       r.cur = next;
+      const sc0 = scenarioForDate(snapshot);
+      const cam0 = sc0?.camera ?? SNAPSHOTS.find((s) => s.date === snapshot)?.camera ?? EUROPE_CAMERA;
+      if (zoomRef.current && wrapRef.current) {
+        select(wrapRef.current).call(zoomRef.current.transform, cameraTransform(cam0.center, cam0.zoom, r.w, r.h));
+      }
       requestDraw();
       return;
     }

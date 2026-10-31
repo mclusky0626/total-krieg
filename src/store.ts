@@ -1,5 +1,7 @@
 import { create } from 'zustand';
 import type { Echelon } from './data/types';
+import { SCENARIOS } from './data/scenarios';
+import { SNAPSHOTS } from './data/timeline';
 
 export type Selection =
   | { kind: 'unit'; id: string }
@@ -56,8 +58,21 @@ const saved = (() => {
   }
 })();
 
+/** Snapshot requested by the URL hash (#typhoon, #d1944-09-15) — read before the first render. */
+function initialSnapshot(): string {
+  try {
+    const h = decodeURIComponent(location.hash.slice(1));
+    const sc = SCENARIOS.find((s) => s.id === h);
+    if (sc) return sc.date;
+    if (h.startsWith('d') && SNAPSHOTS.some((s) => s.date === h.slice(1))) return h.slice(1);
+  } catch {
+    /* no hash */
+  }
+  return '1941-10-27';
+}
+
 export const useStore = create<State>((set, get) => ({
-  snapshot: '1941-10-27',
+  snapshot: initialSnapshot(),
   selection: null,
   hoverUnit: null,
   layers: {
