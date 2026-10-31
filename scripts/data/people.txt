@@ -1,0 +1,373 @@
+# id | 한국어 이름 | English name | nat | born | died | wiki title (blank = English name) | 짧은 소개
+# ---------------------------------------------------------------- Germany
+bock | 페도어 폰 보크 | Fedor von Bock | DEU | 1880 | 1945 | | 폴란드·프랑스·소련 전역에서 집단군을 지휘한 원수. 모스크바 공세가 실패한 뒤 1941년 12월 해임되었고, 1945년 5월 공습으로 사망했다.
+strauss | 아돌프 슈트라우스 | Adolf Strauss | DEU | 1879 | 1973 | | 제9군 사령관(1940–42). 1942년 1월 건강 악화로 모델에게 지휘권을 넘겼다.
+reinhardt | 게오르크한스 라인하르트 | Georg-Hans Reinhardt | DEU | 1887 | 1963 | | 프랑스 전역의 제41군단장. 1941년 10월부터 제3기갑집단(제3기갑군), 1944년 중부집단군을 지휘했다.
+hoepner | 에리히 회프너 | Erich Hoepner | DEU | 1886 | 1944 | | 제4기갑집단 사령관. 1942년 1월 무단 철수로 해임되었고, 1944년 7월 20일 히틀러 암살 음모에 가담해 처형되었다.
+kluge | 귄터 폰 클루게 | Günther von Kluge | DEU | 1882 | 1944 | | 제4군 사령관, 이후 중부집단군(1941–43)과 서부전구 사령관. 1944년 8월 음모 연루 의심을 받자 자살했다.
+guderian | 하인츠 구데리안 | Heinz Guderian | DEU | 1888 | 1954 | | 독일 기갑전 이론가. 폴란드·프랑스·소련에서 기갑부대를 지휘했고, 1941년 12월 해임되었다가 1944–45년 육군 참모총장을 지냈다.
+weichs | 막시밀리안 폰 바익스 | Maximilian von Weichs | DEU | 1881 | 1954 | | 제2군 사령관. 1942년 B집단군 사령관으로 스탈린그라드 방면을 지휘했고 1943–45년 발칸의 F집단군을 맡았다.
+foerster | 오토빌헬름 푀르스터 | Otto-Wilhelm Förster | DEU | 1885 | 1966 | | 공병 출신 장군. 제6군단장(1940–42).
+schubert_a | 알브레히트 슈베르트 | Albrecht Schubert | DEU | 1886 | 1966 | | 제23군단장(1940–42).
+waeger | 알프레트 베거 | Alfred Wäger | DEU | 1883 | 1956 | | 제27군단장(1940–42).
+heitz | 발터 하이츠 | Walter Heitz | DEU | 1878 | 1944 | | 제8군단장. 1943년 1월 스탈린그라드에서 포로가 되어 소련 수용소에서 사망했다.
+ruoff | 리하르트 루오프 | Richard Ruoff | DEU | 1883 | 1967 | | 제5군단장, 1942년 제4기갑군과 제17군 사령관.
+fahrmbacher | 빌헬름 파름바허 | Wilhelm Fahrmbacher | DEU | 1888 | 1970 | | 제7군단장(1940–42). 1944년 브르타뉴의 로리앙 요새를 끝까지 지켰다.
+geyer_h | 헤르만 가이어 | Hermann Geyer | DEU | 1882 | 1946 | | 제9군단장(1939–42).
+schroth | 발터 슈로트 | Walther Schroth | DEU | 1882 | 1944 | | 제12군단장(1939–42).
+felber | 한스 펠버 | Hans Felber | DEU | 1889 | 1962 | | 제13군단장(1940–42), 이후 세르비아 주둔군 사령관.
+materna | 프리드리히 마테르나 | Friedrich Materna | DEU | 1885 | 1946 | | 제20군단장(1939–42).
+stumme | 게오르크 슈툼메 | Georg Stumme | DEU | 1886 | 1942 | | 제40군단장. 1942년 10월 롬멜이 없는 동안 아프리카 기갑군을 지휘하다 엘 알라메인 전투 첫날 심장마비로 사망했다.
+ottenbacher | 오토에른스트 오텐바허 | Otto-Ernst Ottenbacher | DEU | 1888 | 1975 | | 1941년 10월 라인하르트의 후임으로 제41군단(차량화)을 지휘했다.
+vietinghoff | 하인리히 폰 피팅호프 | Heinrich von Vietinghoff | DEU | 1887 | 1952 | | 제46군단장. 이후 이탈리아에서 제10군과 C집단군을 지휘해 1945년 5월 항복했다.
+schaal | 페르디난트 샬 | Ferdinand Schaal | DEU | 1889 | 1962 | | 제10기갑사단장, 1941년 제56군단(차량화)장. 1944년 7월 20일 음모 연루로 체포되었다.
+kuntzen | 아돌프프리드리히 쿤첸 | Adolf-Friedrich Kuntzen | DEU | 1889 | 1964 | | 제57군단(차량화)장(1941–42).
+geyr | 레오 가이어 폰 슈베펜부르크 | Leo Geyr von Schweppenburg | DEU | 1886 | 1974 | | 제24군단(차량화)장. 1944년 노르망디에서 서부기갑집단을 지휘했다.
+lemelsen | 요아힘 레멜젠 | Joachim Lemelsen | DEU | 1888 | 1954 | | 제47군단(차량화)장. 이후 이탈리아에서 제14군을 지휘했다.
+kempf | 베르너 켐프 | Werner Kempf | DEU | 1886 | 1964 | | 제48군단(차량화)장. 1943년 쿠르스크에서 켐프 분견군을 지휘했다.
+heinrici | 고트하르트 하인리치 | Gotthard Heinrici | DEU | 1886 | 1971 | | 방어전의 명수. 제43군단장과 제4군 사령관을 거쳐 1945년 비스와 집단군으로 오데르강 방어를 지휘했다.
+weisenberger | 카를 바이젠베르거 | Karl Weisenberger | DEU | 1890 | 1952 | | 제53군단장(1941–42).
+metz | 헤르만 메츠 | Hermann Metz | DEU | 1878 | 1946 | | 제34고급사령부(군단급) 지휘관(1941–42).
+kaempfe | 루돌프 켐페 | Rudolf Kaempfe | DEU | 1883 | 1962 | | 제35고급사령부(군단급) 지휘관(1941–42).
+krueger_w | 발터 크뤼거 | Walter Krüger | DEU | 1892 | 1973 | Walter Krüger (General of the Panzer Troops) | 제1기갑사단장(1941–44).
+veiel | 루돌프 파이엘 | Rudolf Veiel | DEU | 1883 | 1956 | | 제2기갑사단장(1938–42).
+breith | 헤르만 브라이트 | Hermann Breith | DEU | 1892 | 1964 | | 1941년 10월부터 제3기갑사단장. 1943년 쿠르스크에서 제3기갑군단을 지휘했다.
+langermann | 빌리발트 폰 랑게르만 | Willibald von Langermann | DEU | 1890 | 1942 | Willibald von Langermann und Erlencamp | 제4기갑사단장. 1942년 보로네시 근처에서 전사했다.
+fehn | 구스타프 펜 | Gustav Fehn | DEU | 1892 | 1945 | | 제5기갑사단장, 1942년 아프리카 군단장.
+funck | 한스 폰 풍크 | Hans von Funck | DEU | 1891 | 1979 | Hans Freiherr von Funck | 롬멜의 후임 제7기갑사단장(1941–43).
+fischer_w | 볼프강 피셔 | Wolfgang Fischer | DEU | 1888 | 1943 | Wolfgang Fischer (general) | 제10기갑사단장. 1943년 튀니지에서 지뢰에 전사했다.
+arnim | 한스위르겐 폰 아르님 | Hans-Jürgen von Arnim | DEU | 1889 | 1962 | | 제17기갑사단장. 1943년 아프리카 집단군 사령관으로 튀니지에서 항복했다.
+nehring | 발터 네링 | Walther Nehring | DEU | 1892 | 1983 | | 제18기갑사단장. 이후 아프리카 군단, 제1기갑군을 지휘했다.
+knobelsdorff | 오토 폰 크노벨스도르프 | Otto von Knobelsdorff | DEU | 1886 | 1966 | | 제19기갑사단장. 1943년 쿠르스크에서 제48기갑군단을 지휘했다.
+bismarck_g | 게오르크 폰 비스마르크 | Georg von Bismarck | DEU | 1891 | 1942 | Georg von Bismarck (general) | 제20기갑사단장. 1942년 8월 알람 할파에서 제21기갑사단장으로 전사했다.
+bittrich | 빌헬름 비트리히 | Wilhelm Bittrich | DEU | 1894 | 1979 | | 1941년 10월 SS 라이히 사단을 대리 지휘했다. 1944년 아른험에서 제2SS기갑군단을 지휘했다.
+hubicki | 알프레트 폰 후비키 | Alfred von Hubicki | DEU | 1887 | 1971 | Alfred Ritter von Hubicki | 제9기갑사단장(1940–42).
+hoernlein | 발터 회른라인 | Walter Hörnlein | DEU | 1893 | 1961 | | 그로스도이칠란트 연대·사단장(1941–44).
+# ---------------------------------------------------------------- Soviet Union
+zhukov | 게오르기 주코프 | Georgy Zhukov | SOV | 1896 | 1974 | | 할힌골의 승장. 레닌그라드와 모스크바 방어를 지휘했고 스탈린그라드 반격과 바그라티온을 기획했으며 1945년 베를린을 점령한 원수.
+konev | 이반 코네프 | Ivan Konev | SOV | 1897 | 1973 | | 서부·칼리닌·스텝·우크라이나 제1전선군 사령관. 1945년 베를린과 프라하 작전을 지휘한 원수.
+rokossovsky | 콘스탄틴 로코솝스키 | Konstantin Rokossovsky | SOV | 1896 | 1968 | | 대숙청 때 투옥되었다가 복귀했다. 모스크바의 제16군, 스탈린그라드의 돈전선군, 쿠르스크의 중앙전선군, 바그라티온의 벨라루스 제1전선군을 지휘한 원수.
+govorov | 레오니트 고보로프 | Leonid Govorov | SOV | 1897 | 1955 | | 포병 장교 출신. 모스크바에서 제5군을 지휘했고 1942–45년 레닌그라드 전선군 사령관으로 봉쇄를 풀었다.
+yefremov | 미하일 예프레모프 | Mikhail Yefremov | SOV | 1897 | 1942 | | 제33군 사령관. 1942년 4월 뱌지마 근처에서 포위되자 포로가 되는 대신 자결했다.
+akimov | 스테판 아키모프 | Stepan Akimov | SOV | 1896 | 1941 | | 1941년 10월 제43군 사령관. 같은 해 11월 비행기 사고로 사망했다.
+zakharkin | 이반 자하르킨 | Ivan Zakharkin | SOV | 1889 | 1944 | | 제49군 사령관(1941–43). 세르푸호프·알렉신 방어를 맡았다.
+yermakov | 아르카디 예르마코프 | Arkady Yermakov | SOV | 1899 | 1957 | | 브랸스크 포위전에서 예르마코프 작전집단을 지휘했고 1941년 10–11월 제50군을 이끌었다.
+kurkin | 알렉세이 쿠르킨 | Alexey Kurkin | SOV | 1901 | 1981 | Aleksei Kurkin | 기계화부대 지휘관. 1941년 10월 재편성된 제26군을 지휘했다.
+kreizer | 야코프 크레이제르 | Yakov Kreizer | SOV | 1905 | 1969 | | 1941년 7월 보리소프 방어로 소련 영웅이 된 장군. 제3군·제51군·제2근위군 사령관.
+gorodnyansky | 압크센티 고로드냔스키 | Avksentii Gorodnianskyi | SOV | 1896 | 1942 | | 제13군 사령관. 1942년 5월 제2차 하리코프 전투에서 포위되어 전사했다.
+zakharov_g | 게오르기 자하로프 | Georgiy Zakharov | SOV | 1897 | 1957 | | 1941년 10월 브랸스크전선군 사령관. 1944년 바그라티온에서 벨라루스 제2전선군을 지휘했다.
+vostrukhov | 블라디미르 보스트루호프 | Vladimir Vostrukhov | SOV | 1895 | 1971 | | 1941년 10월부터 제22군 사령관.
+maslennikov | 이반 마슬렌니코프 | Ivan Maslennikov | SOV | 1900 | 1954 | | NKVD 국경경비대 출신. 제29군, 이후 북캅카스 전선군을 지휘했다.
+khomenko | 바실리 호멘코 | Vasily Khomenko | SOV | 1899 | 1943 | | 1941년 제30군 사령관. 1943년 전사했다.
+yushkevich | 바실리 유시케비치 | Vasily Yushkevich | SOV | 1897 | 1951 | | 제22군과 제31군 사령관.
+panfilov | 이반 판필로프 | Ivan Panfilov | SOV | 1893 | 1941 | | 제316소총사단장. 볼로콜람스크를 지키다 1941년 11월 18일 전사했다.
+katukov | 미하일 카투코프 | Mikhail Katukov | SOV | 1900 | 1976 | | 므첸스크에서 구데리안을 저지한 전차여단장. 이후 제1전차군(제1근위전차군)을 이끌고 쿠르스크와 베를린에서 싸웠다.
+dovator | 레프 도바토르 | Lev Dovator | SOV | 1903 | 1941 | | 기병 지휘관. 1941년 12월 루자 근처에서 전사했다.
+polosukhin | 빅토르 폴로수힌 | Viktor Polosukhin | SOV | 1904 | 1942 | | 보로디노에서 싸운 제32소총사단장. 1942년 2월 전사했다.
+# ---------------------------------------------------------------- Germany (more)
+hitler | 아돌프 히틀러 | Adolf Hitler | DEU | 1889 | 1945 | | 나치당 지도자, 1933년 총리, 1934년 총통. 침략 전쟁과 홀로코스트를 일으켰고 1941년 12월부터는 육군 총사령관을 겸하며 작전을 직접 지휘했다. 1945년 4월 30일 베를린 벙커에서 자살했다.
+keitel | 빌헬름 카이텔 | Wilhelm Keitel | DEU | 1882 | 1946 | | 국방군 총사령부(OKW) 총장. 히틀러에게 맹종해 "라카이텔(하인)"이라 불렸다. 1945년 5월 항복 문서에 서명했고 뉘른베르크 재판에서 교수형을 받았다.
+doenitz | 카를 되니츠 | Karl Dönitz | DEU | 1891 | 1980 | | 잠수함 함대 사령관, 1943년 해군 총사령관. 히틀러의 유언으로 마지막 국가원수가 되어 항복을 이끌었다.
+manstein | 에리히 폰 만슈타인 | Erich von Manstein | DEU | 1887 | 1973 | | 프랑스 전역의 "낫질 작전"을 구상했다. 1941년 제56군단, 제11군(세바스토폴 점령), 1942–44년 돈·남부집단군을 지휘했다.
+kuechler | 게오르크 폰 퀴흘러 | Georg von Küchler | DEU | 1881 | 1968 | | 제3군(폴란드)·제18군(서부·발트) 사령관, 1942–44년 북부집단군 사령관으로 레닌그라드 포위를 지휘했다.
+busch | 에른스트 부슈 | Ernst Busch | DEU | 1885 | 1945 | Ernst Busch (field marshal) | 제16군 사령관(1939–43), 1943–44년 중부집단군 사령관. 바그라티온 작전으로 집단군이 괴멸하자 해임되었다.
+hoth | 헤르만 호트 | Hermann Hoth | DEU | 1885 | 1971 | | 제15군단, 제3기갑집단, 제17군, 제4기갑군 사령관. 스탈린그라드 구출 작전과 쿠르스크 남부 공세를 지휘했다.
+rundstedt | 게르트 폰 룬트슈테트 | Gerd von Rundstedt | DEU | 1875 | 1953 | | 폴란드·프랑스·소련 전역에서 집단군을 지휘한 원로 원수. 1942–45년 세 차례 서부전구 총사령관을 지냈다.
+reichenau | 발터 폰 라이헤나우 | Walther von Reichenau | DEU | 1884 | 1942 | | 나치에 우호적인 장군. 제10군·제6군 사령관, 1941년 12월 남부집단군 사령관. 그의 "가혹 명령"은 점령지 학살을 부추겼다. 1942년 1월 뇌졸중으로 사망했다.
+kleist | 에발트 폰 클라이스트 | Ewald von Kleist | DEU | 1881 | 1954 | | 1940년 클라이스트 기갑집단으로 아르덴을 돌파했고, 제1기갑집단·A집단군을 지휘했다.
+mackensen | 에버하르트 폰 마켄젠 | Eberhard von Mackensen | DEU | 1889 | 1969 | | 제3군단(차량화), 제1기갑군, 이탈리아의 제14군 사령관.
+wietersheim | 구스타프 폰 비터스하임 | Gustav Anton von Wietersheim | DEU | 1884 | 1974 | | 제14군단(차량화)장. 1942년 스탈린그라드 진격 중 비관적 보고로 해임되었다.
+cruewell | 루트비히 크뤼벨 | Ludwig Crüwell | DEU | 1892 | 1958 | | 제11기갑사단장, 1941–42년 아프리카 군단장. 가잘라 전투 중 비행기가 격추되어 포로가 되었다.
+hube | 한스발렌틴 후베 | Hans-Valentin Hube | DEU | 1890 | 1944 | | 1차 대전에서 한쪽 팔을 잃은 "인간 하나". 제16기갑사단장, 제14기갑군단장, 제1기갑군 사령관. 1944년 비행기 사고로 사망했다.
+dietrich | 제프 디트리히 | Sepp Dietrich | DEU | 1892 | 1966 | | 히틀러의 경호대장 출신 무장친위대 장군. 라이프슈탄다르테, SS 제1기갑군단, 제6기갑군을 지휘했다.
+stuelpnagel | 카를하인리히 폰 슈튈프나겔 | Carl-Heinrich von Stülpnagel | DEU | 1886 | 1944 | | 제17군 사령관, 1942년 프랑스 군정 사령관. 7월 20일 음모에 가담해 처형되었다.
+schobert | 오이겐 폰 쇼베르트 | Eugen Ritter von Schobert | DEU | 1883 | 1941 | | 제11군 사령관. 1941년 9월 정찰기가 지뢰밭에 착륙해 전사했다.
+paulus | 프리드리히 파울루스 | Friedrich Paulus | DEU | 1890 | 1957 | | 바르바로사 작전 계획을 다듬은 참모 장교. 1942년 제6군 사령관으로 스탈린그라드에서 포위되어 1943년 1월 31일 항복했다.
+salmuth | 한스 폰 잘무트 | Hans von Salmuth | DEU | 1888 | 1962 | | 제30군단장, 제2군 사령관, 1943–44년 제15군 사령관.
+hausser | 파울 하우서 | Paul Hausser | DEU | 1880 | 1972 | | 무장친위대의 창설자 격 장군. SS 라이히 사단, SS 제2기갑군단, 노르망디의 제7군을 지휘했다.
+rommel | 에르빈 롬멜 | Erwin Rommel | DEU | 1891 | 1944 | | 1940년 제7기갑사단장, 1941–43년 북아프리카에서 "사막의 여우"로 이름을 떨쳤다. 1944년 B집단군 사령관으로 노르망디 방어를 맡았고, 7월 20일 음모 연루 혐의로 자살을 강요당했다.
+dollmann | 프리드리히 돌만 | Friedrich Dollmann | DEU | 1882 | 1944 | | 1939–44년 제7군 사령관. 노르망디 전투 중인 6월 28일 사망했다.
+marcks | 에리히 마르크스 | Erich Marcks | DEU | 1891 | 1944 | | 소련 침공 초기 계획(마르크스 계획)을 썼다. 제84군단장으로 노르망디에서 6월 12일 전사했다.
+schlieben | 카를빌헬름 폰 슐리벤 | Karl-Wilhelm von Schlieben | DEU | 1894 | 1964 | | 제709보병사단장, 셰르부르 요새 사령관으로 6월 26일 항복했다.
+falley | 빌헬름 팔리 | Wilhelm Falley | DEU | 1897 | 1944 | | 제91공수상륙사단장. 디데이 새벽 미군 공수부대에 사살되어 노르망디에서 처음 전사한 독일 장군이 되었다.
+kraiss | 디트리히 크라이스 | Dietrich Kraiss | DEU | 1889 | 1944 | | 오마하 해안을 지킨 제352보병사단장. 1944년 8월 생로 근처에서 전사했다.
+richter_w | 빌헬름 리히터 | Wilhelm Richter | DEU | 1892 | 1971 | Wilhelm Richter (general) | 골드·주노·소드 해안을 지킨 제716보병사단장.
+heydte | 프리드리히 폰 데어 하이테 | Friedrich August von der Heydte | DEU | 1907 | 1994 | | 크레타 강하에 참가한 강하엽병 지휘관. 1944년 카랑탕을 지켰고 아르덴 공세의 마지막 공수 작전을 지휘했다.
+feuchtinger | 에드가 포이히팅거 | Edgar Feuchtinger | DEU | 1894 | 1960 | | 디데이에 캉의 제21기갑사단을 지휘했다.
+witt | 프리츠 비트 | Fritz Witt | DEU | 1908 | 1944 | | SS 제12기갑사단 히틀러유겐트 사단장. 1944년 6월 14일 함포 사격으로 전사했다.
+bayerlein | 프리츠 바이에를라인 | Fritz Bayerlein | DEU | 1899 | 1970 | | 롬멜의 참모장 출신. 1944–45년 기갑교도사단을 지휘했다.
+tippelskirch | 쿠르트 폰 티펠스키르히 | Kurt von Tippelskirch | DEU | 1891 | 1957 | | 바그라티온 작전 때 제4군 사령관. 전후 2차 대전사를 썼다.
+gollwitzer | 프리드리히 골비처 | Friedrich Gollwitzer | DEU | 1889 | 1977 | | 제53군단장. 1944년 6월 비텝스크에서 포위되어 포로가 되었다.
+wuthmann | 롤프 부트만 | Rolf Wuthmann | DEU | 1893 | 1977 | | 제9군단장(1944).
+voelckers | 파울 푈커스 | Paul Völckers | DEU | 1891 | 1946 | | 제27군단장. 1944년 7월 민스크 동쪽에서 포로가 되었다.
+martinek | 로베르트 마르티네크 | Robert Martinek | DEU | 1889 | 1944 | | 오스트리아 출신 포병 장군. 제39기갑군단장으로 1944년 6월 28일 전사했다.
+luetzow | 쿠르트위르겐 폰 뤼초 | Kurt-Jürgen von Lützow | DEU | 1892 | 1961 | | 제35군단장. 보브루이스크 포위망에서 포로가 되었다.
+hoffmeister | 에드문트 호프마이스터 | Edmund Hoffmeister | DEU | 1893 | 1951 | | 제41기갑군단장. 보브루이스크에서 포로가 되었다.
+herrlein | 프리드리히 헤를라인 | Friedrich Herrlein | DEU | 1889 | 1974 | | 제55군단장(1944).
+mohnke | 빌헬름 몬케 | Wilhelm Mohnke | DEU | 1911 | 2001 | | 아르덴 공세 때 SS 라이프슈탄다르테 사단장. 1945년 총통 관저 방어를 지휘했다.
+peiper | 요아힘 파이퍼 | Joachim Peiper | DEU | 1915 | 1976 | | 아르덴 공세의 선봉 파이퍼 전투단 지휘관. 말메디 학살 책임으로 전후 사형선고를 받았다가 감형되었다.
+kraas | 후고 크라스 | Hugo Kraas | DEU | 1911 | 1980 | | 1944년 11월부터 SS 제12기갑사단장.
+hitzfeld | 오토 히츠펠트 | Otto Hitzfeld | DEU | 1898 | 1990 | | 아르덴 공세 때 제67군단장.
+manteuffel | 하소 폰 만토이펠 | Hasso von Manteuffel | DEU | 1897 | 1978 | | 그로스도이칠란트 사단장, 아르덴의 제5기갑군, 1945년 제3기갑군 사령관. 뛰어난 기갑 지휘관으로 꼽힌다.
+lucht | 발터 루흐트 | Walther Lucht | DEU | 1882 | 1949 | | 아르덴 공세 때 제66군단장.
+luettwitz | 하인리히 폰 뤼트비츠 | Heinrich Freiherr von Lüttwitz | DEU | 1896 | 1969 | | 제47기갑군단장. 바스토뉴에 항복을 권고했다가 "Nuts!"라는 답을 받았다.
+lauchert | 마인라트 폰 라우헤르트 | Meinrad von Lauchert | DEU | 1905 | 1987 | | 아르덴 공세 때 제2기갑사단장. 뫼즈강 6 km 앞까지 진격했다.
+kokott | 하인츠 코코트 | Heinz Kokott | DEU | 1900 | 1976 | | 바스토뉴를 포위한 제26국민척탄병사단장.
+waldenburg | 지크프리트 폰 발덴부르크 | Siegfried von Waldenburg | DEU | 1898 | 1973 | | 제116기갑사단장(1944–45).
+brandenberger | 에리히 브란덴베르거 | Erich Brandenberger | DEU | 1892 | 1955 | | 제8기갑사단장, 아르덴 공세 때 제7군 사령관.
+busse | 테오도어 부세 | Theodor Busse | DEU | 1897 | 1986 | | 만슈타인의 참모장 출신. 1945년 제9군 사령관으로 오데르강과 젤로 고지를 지켰다.
+weidling | 헬무트 바이틀링 | Helmuth Weidling | DEU | 1891 | 1955 | | 제56기갑군단장, 1945년 4월 23일 베를린 방어사령관. 5월 2일 항복했다.
+kleinheisterkamp | 마티아스 클라인하이스터캄프 | Matthias Kleinheisterkamp | DEU | 1893 | 1945 | | SS 제11기갑군단장. 1945년 4월 할베 포위망에서 사망했다.
+reymann | 헬무트 라이만 | Hellmuth Reymann | DEU | 1892 | 1988 | | 1945년 3–4월 베를린 방어구역 사령관.
+wenck | 발터 벵크 | Walther Wenck | DEU | 1900 | 1982 | | 최연소 군 사령관 중 한 명. 1945년 제12군으로 엘베강에서 동쪽으로 공격해 수만 명을 탈출시켰다.
+schoerner | 페르디난트 쇠르너 | Ferdinand Schörner | DEU | 1892 | 1973 | | 가혹한 군기로 악명 높은 나치 신봉자. 1945년 중부집단군 사령관이자 마지막 육군 총사령관.
+graeser | 프리츠후베르트 그레저 | Fritz-Hubert Gräser | DEU | 1888 | 1960 | | 1944–45년 제4기갑군 사령관.
+student | 쿠르트 슈투덴트 | Kurt Student | DEU | 1890 | 1978 | | 독일 공수부대의 아버지. 에벤에말·로테르담(1940), 크레타(1941) 공수작전을 지휘했다.
+kirchner | 프리드리히 키르히너 | Friedrich Kirchner | DEU | 1885 | 1960 | | 제1기갑사단장(1939–41), 이후 제57기갑군단장.
+witzleben | 에르빈 폰 비츨레벤 | Erwin von Witzleben | DEU | 1881 | 1944 | | 제1군 사령관. 7월 20일 음모에서 국방군 총사령관으로 내정되었다가 처형되었다.
+blaskowitz | 요하네스 블라스코비츠 | Johannes Blaskowitz | DEU | 1883 | 1948 | | 제8군 사령관(1939). 폴란드에서 친위대의 학살에 항의했다. 1944년 G집단군, 1945년 네덜란드의 H집단군을 지휘했다.
+haase | 쿠르트 하제 | Curt Haase | DEU | 1881 | 1943 | | 제3군단장(1939–40).
+petzel | 발터 페첼 | Walter Petzel | DEU | 1883 | 1965 | | 제1군단장(1939).
+wodrig | 알베르트 보드리크 | Albert Wodrig | DEU | 1883 | 1972 | | 1939년 보드리크 군단장, 1941년 제26군단장.
+ulex | 빌헬름 울렉스 | Wilhelm Ulex | DEU | 1880 | 1959 | | 제10군단장(1939).
+schwedler | 빅토어 폰 슈베들러 | Viktor von Schwedler | DEU | 1885 | 1954 | | 제4군단장(1939–42).
+kienitz | 베르너 키니츠 | Werner Kienitz | DEU | 1885 | 1959 | | 제17군단장(1939–42).
+beyer | 오이겐 바이어 | Eugen Beyer | DEU | 1882 | 1940 | | 제18군단장(1939–40).
+leeb_e | 에밀 레프 | Emil Leeb | DEU | 1881 | 1969 | | 제11군단장(1939). 빌헬름 폰 레프의 동생.
+leeb | 빌헬름 폰 레프 | Wilhelm Ritter von Leeb | DEU | 1876 | 1956 | | 1940년 C집단군, 1941년 북부집단군 사령관. 레닌그라드 포위 후 1942년 1월 사임했다.
+list | 빌헬름 리스트 | Wilhelm List | DEU | 1880 | 1971 | | 제14군(폴란드)·제12군(프랑스·발칸) 사령관, 1942년 A집단군 사령관으로 캅카스 진격 중 해임되었다.
+model | 발터 모델 | Walter Model | DEU | 1891 | 1945 | | "총통의 소방수". 제3기갑사단장, 제9군 사령관, 1944년 중부·북우크라이나·B집단군 사령관. 1945년 4월 루르 포위망에서 자살했다.
+heim | 페르디난트 하임 | Ferdinand Heim | DEU | 1895 | 1977 | | 1942년 11월 제48기갑군단장. 천왕성 작전 때 패배의 희생양으로 해임·투옥되었다.
+harpe | 요제프 하르페 | Josef Harpe | DEU | 1887 | 1968 | | 제12기갑사단장, 쿠르스크의 제41기갑군단장, 1944년 북우크라이나·A집단군 사령관.
+zorn | 한스 초른 | Hans Zorn | DEU | 1891 | 1943 | | 제46기갑군단장. 1943년 8월 오룔 근처에서 전사했다.
+friessner | 요하네스 프리스너 | Johannes Frießner | DEU | 1892 | 1971 | | 제23군단장, 1944년 남우크라이나·남부집단군 사령관.
+clossner | 에리히하인리히 클뢰스너 | Erich-Heinrich Clößner | DEU | 1888 | 1976 | | 1943년 제2기갑군 사령관.
+ott | 오이겐 오트 | Eugen Ott | DEU | 1890 | 1966 | Eugen Ott (general) | 쿠르스크 전투 때 제52군단장.
+raus | 에르하르트 라우스 | Erhard Raus | DEU | 1889 | 1956 | | 오스트리아 출신 기갑 지휘관. 제6기갑사단장, 라우스 군단, 제4·3기갑군 사령관.
+mickl | 요한 미클 | Johann Mickl | DEU | 1893 | 1945 | | 제11기갑사단장(1943). 1945년 전사했다.
+wisch | 테오도어 비시 | Theodor Wisch | DEU | 1907 | 1995 | | 쿠르스크·노르망디의 SS 라이프슈탄다르테 사단장.
+krueger_ss | 발터 크뤼거 (SS) | Walter Krüger (SS general) | DEU | 1890 | 1945 | Walter Krüger (SS general) | 쿠르스크 때 SS 다스 라이히 사단장. 같은 이름의 국방군 장군과 다른 인물이다.
+priess | 헤르만 프리스 | Hermann Priess | DEU | 1901 | 1985 | | SS 토텐코프 사단장, 아르덴 공세 때 SS 제1기갑군단장.
+huenersdorff | 발터 폰 휘너스도르프 | Walther von Hünersdorff | DEU | 1898 | 1943 | | 제6기갑사단장. 1943년 7월 쿠르스크 전투 중 전사했다.
+thoma | 빌헬름 폰 토마 | Wilhelm Ritter von Thoma | DEU | 1891 | 1948 | | 스페인 내전의 콘도르 군단 전차 지휘관. 1942년 아프리카 군단장으로 엘 알라메인에서 포로가 되었다.
+vaerst | 구스타프 폰 페르스트 | Gustav von Vaerst | DEU | 1894 | 1975 | | 제15기갑사단장, 1943년 제5기갑군 사령관으로 튀니지에서 항복했다.
+randow | 하인츠 폰 란도 | Heinz von Randow | DEU | 1890 | 1942 | | 제21기갑사단장. 1942년 12월 리비아에서 지뢰로 전사했다.
+sponeck_t | 테오도어 폰 슈포네크 | Theodor Graf von Sponeck | DEU | 1896 | 1982 | | 엘 알라메인의 제90경사단장. 1943년 튀니지에서 포로가 되었다.
+lungershausen | 카를한스 룽거스하우젠 | Carl-Hans Lungershausen | DEU | 1896 | 1975 | | 제164경사단장(1942).
+ramcke | 헤르만베른하르트 람케 | Hermann-Bernhard Ramcke | DEU | 1889 | 1968 | | 강하엽병 지휘관. 엘 알라메인에서 여단을 이끌고 사막을 가로질러 탈출했고, 1944년 브레스트 요새를 지켰다.
+sponeck | 한스 폰 슈포네크 | Hans Graf von Sponeck | DEU | 1888 | 1944 | | 제22공수보병사단장(1940). 1941년 크림에서 독단 철수로 사형선고를 받고 1944년 처형되었다.
+jaenecke | 에르빈 예네케 | Erwin Jaenecke | DEU | 1890 | 1960 | | 스탈린그라드의 제4군단장, 1944년 크림의 제17군 사령관.
+angern | 귄터 앙게른 | Günther Angern | DEU | 1893 | 1943 | | 제16기갑사단장. 1943년 2월 스탈린그라드에서 자결했다.
+seydlitz | 발터 폰 자이틀리츠 | Walther von Seydlitz-Kurzbach | DEU | 1888 | 1976 | | 1942년 데먄스크 포위망을 구출했고, 스탈린그라드에서 제51군단장으로 탈출을 주장했다. 포로가 된 뒤 반나치 독일장교연맹을 이끌었다.
+strecker | 카를 슈트레커 | Karl Strecker | DEU | 1884 | 1973 | | 제11군단장. 스탈린그라드에서 마지막으로 항복했다(1943.2.2).
+schmidt_r | 루돌프 슈미트 | Rudolf Schmidt | DEU | 1886 | 1957 | Rudolf Schmidt (general) | 제39군단(차량화)장, 제2군·제2기갑군 사령관. 1943년 해임되었다.
+weiss_w | 발터 바이스 | Walter Weiss | DEU | 1890 | 1967 | Walter Weiss (general) | 1943–45년 제2군 사령관.
+jordan_h | 한스 요르단 | Hans Jordan | DEU | 1892 | 1975 | | 바그라티온 작전 초기 제9군 사령관. 6월 27일 해임되었다.
+mueller_v | 빈첸츠 뮐러 | Vincenz Müller | DEU | 1894 | 1961 | | 제12군단장. 1944년 7월 민스크 동쪽에서 항복했고 전후 동독 국가인민군 창설에 참여했다.
+pfeiffer_g | 게오르크 파이퍼 | Georg Pfeiffer | DEU | 1890 | 1944 | | 제6군단장. 1944년 6월 28일 전사했다.
+berlin_w | 빌헬름 베를린 | Wilhelm Berlin | DEU | 1889 | 1987 | | 1945년 오데르 전선의 제101군단장.
+falkenhorst | 니콜라우스 폰 팔켄호르스트 | Nikolaus von Falkenhorst | DEU | 1885 | 1968 | | 1940년 노르웨이 침공(베저위붕 작전)을 지휘했고 1940–44년 노르웨이 주둔군 사령관을 지냈다.
+dietl | 에두아르트 디틀 | Eduard Dietl | DEU | 1890 | 1944 | | 1940년 나르비크를 지킨 산악사단장. 노르웨이 산악군단, 라플란드의 제20산악군을 지휘했고 1944년 비행기 사고로 사망했다.
+# ---------------------------------------------------------------- Soviet Union (more)
+stalin | 이오시프 스탈린 | Joseph Stalin | SOV | 1878 | 1953 | | 소련 공산당 서기장. 1941년부터 국방위원회 의장·최고사령관으로 전쟁을 지휘했다. 대숙청으로 군 지휘부를 약화시켰고 독일의 침공 경고를 무시했다.
+molotov | 뱌체슬라프 몰로토프 | Vyacheslav Molotov | SOV | 1890 | 1986 | | 외무인민위원. 1939년 독소 불가침 조약(몰로토프-리벤트로프 조약)에 서명했다.
+timoshenko | 세묜 티모셴코 | Semyon Timoshenko | SOV | 1895 | 1970 | | 1939년 우크라이나전선군으로 폴란드를 침공했고, 1940–41년 국방인민위원, 이후 여러 전선군을 지휘한 원수.
+kovalyov | 미하일 코발료프 | Mikhail Kovalyov | SOV | 1897 | 1967 | | 1939년 폴란드 침공 때 벨라루스전선군 사령관.
+popov_m | 마르키안 포포프 | Markian Popov | SOV | 1902 | 1969 | | 1941년 북부전선군 사령관, 1943년 브랸스크전선군 사령관.
+frolov | 발레리안 프롤로프 | Valerian Frolov | SOV | 1895 | 1961 | | 1941–44년 무르만스크를 지킨 제14군 사령관.
+gorelenko | 필리프 고렐렌코 | Filipp Gorelenko | SOV | 1888 | 1956 | | 1941년 제7군 사령관.
+pshennikov | 표트르 프셴니코프 | Pyotr Pshennikov | SOV | 1895 | 1941 | | 1941년 제23군 사령관. 같은 해 전사했다.
+kuznetsov_f | 표도르 쿠즈네초프 | Fyodor Kuznetsov | SOV | 1898 | 1961 | | 1941년 6월 북서부전선군 사령관.
+sobennikov | 표트르 소벤니코프 | Pyotr Sobennikov | SOV | 1894 | 1960 | | 1941년 제8군·북서부전선군 사령관.
+morozov_v | 바실리 모로조프 | Vasily Morozov | SOV | 1897 | 1964 | Vasily Ivanovich Morozov | 1941–42년 제11군 사령관.
+berzarin | 니콜라이 베르자린 | Nikolai Berzarin | SOV | 1904 | 1945 | | 제27군·제5충격군 사령관. 1945년 베를린 최초의 소련군 시 사령관이 되었으나 6월 오토바이 사고로 사망했다.
+pavlov_d | 드미트리 파블로프 | Dmitry Pavlov | SOV | 1897 | 1941 | Dmitry Pavlov (general) | 스페인 내전 전차 지휘관. 1941년 서부전선군이 괴멸하자 체포되어 7월 총살되었다.
+kuznetsov_vi | 바실리 쿠즈네초프 | Vasily Kuznetsov | SOV | 1894 | 1964 | Vasily Ivanovich Kuznetsov | 1941년 제3군 사령관, 1945년 제3충격군 사령관으로 베를린 국회의사당을 점령했다.
+golubev | 콘스탄틴 골루베프 | Konstantin Golubev | SOV | 1896 | 1956 | | 1941년 제10군·제13군, 1941–44년 제43군 사령관.
+korobkov | 알렉산드르 코롭코프 | Aleksandr Korobkov | SOV | 1897 | 1941 | | 브레스트를 지킨 제4군 사령관. 개전 직후 패배 책임으로 총살되었다.
+khatskilevich | 미하일 하츠킬레비치 | Mikhail Khatskilevich | SOV | 1895 | 1941 | | 제6기계화군단장. 1941년 6월 비아위스토크 포위망에서 전사했다.
+kirponos | 미하일 키르포노스 | Mikhail Kirponos | SOV | 1892 | 1941 | | 남서부전선군 사령관. 1941년 9월 키예프 포위망에서 탈출하다 전사했다.
+potapov | 미하일 포타포프 | Mikhail Potapov | SOV | 1902 | 1965 | | 제5군 사령관. 1941년 9월 키예프에서 포로가 되었다가 살아 돌아왔다.
+muzychenko | 이반 무지첸코 | Ivan Muzychenko | SOV | 1901 | 1970 | | 제6군 사령관. 1941년 8월 우만 포위망에서 포로가 되었다.
+kostenko | 표도르 코스텐코 | Fyodor Kostenko | SOV | 1896 | 1942 | | 제26군 사령관(1941). 1942년 하리코프 전투에서 전사했다.
+ponedelin | 파벨 포네델린 | Pavel Ponedelin | SOV | 1893 | 1950 | | 제12군 사령관. 우만에서 포로가 되었고 귀국 후 반역죄로 처형되었다.
+ryabyshev | 드미트리 랴비셰프 | Dmitry Ryabyshev | SOV | 1894 | 1985 | | 제8기계화군단장으로 두브노 전차전에서 싸웠다.
+vlasov | 안드레이 블라소프 | Andrey Vlasov | SOV | 1901 | 1946 | | 제4기계화군단장, 모스크바 방어의 제20군 사령관. 1942년 포로가 된 뒤 독일 편 러시아 해방군을 이끌었고 1946년 처형되었다.
+cherevichenko | 야코프 체레비첸코 | Yakov Cherevichenko | SOV | 1894 | 1976 | | 1941년 제9군·남부전선군 사령관.
+tyulenev | 이반 튤레네프 | Ivan Tyulenev | SOV | 1892 | 1978 | | 1941년 남부전선군, 1942년 자캅카스전선군 사령관.
+smirnov_a | 안드레이 스미르노프 | Andrei Smirnov | SOV | 1895 | 1941 | Andrei Kirillovich Smirnov | 제18군 사령관. 1941년 10월 아조프해 연안 포위망에서 전사했다.
+vatutin | 니콜라이 바투틴 | Nikolai Vatutin | SOV | 1901 | 1944 | | 남서부·보로네시·우크라이나 제1전선군 사령관. 천왕성 작전과 쿠르스크, 키예프 해방을 지휘했다. 1944년 우크라이나 민족주의 게릴라의 습격으로 사망했다.
+lelyushenko | 드미트리 렐류셴코 | Dmitry Lelyushenko | SOV | 1901 | 1987 | | 모스크바의 제5군·제30군, 천왕성의 제1근위군, 1945년 제4근위전차군 사령관.
+romanenko | 프로코피 로마넨코 | Prokofy Romanenko | SOV | 1897 | 1949 | | 천왕성 작전의 제5전차군, 쿠르스크·바그라티온의 제48군 사령관.
+chistyakov | 이반 치스챠코프 | Ivan Chistyakov | SOV | 1900 | 1979 | | 제21군(스탈린그라드), 제6근위군(쿠르스크·바그라티온) 사령관. 1945년 8월 만주와 북한에 진주한 제25군 사령관이기도 하다.
+rodin | 알렉세이 로딘 | Alexei Rodin | SOV | 1902 | 1955 | | 천왕성 작전 때 칼라치 다리를 기습한 제26전차군단장, 쿠르스크의 제2전차군 사령관.
+butkov | 바실리 부트코프 | Vasily Butkov | SOV | 1900 | 1981 | | 제1전차군단장(1942–45).
+kravchenko | 안드레이 크랍첸코 | Andrei Kravchenko | SOV | 1899 | 1963 | | 천왕성 작전의 제4전차군단장. 이후 제6근위전차군을 이끌었다.
+pliyev | 이사 플리예프 | Issa Pliyev | SOV | 1903 | 1979 | | 기병·기계화 집단 지휘관. 스탈린그라드, 바그라티온, 1945년 만주 작전에서 활약했다.
+batov | 파벨 바토프 | Pavel Batov | SOV | 1897 | 1985 | | 1942–45년 제65군 사령관. 스탈린그라드부터 베를린까지 같은 군을 이끌었다.
+galanin | 이반 갈라닌 | Ivan Galanin | SOV | 1899 | 1958 | | 스탈린그라드의 제24군, 쿠르스크의 제70군 사령관.
+zhadov | 알렉세이 자도프 | Aleksey Zhadov | SOV | 1901 | 1977 | | 제66군, 1943–45년 제5근위군 사령관.
+yeremenko | 안드레이 예료멘코 | Andrey Yeryomenko | SOV | 1892 | 1970 | | 1941년 브랸스크전선군, 1942년 스탈린그라드전선군 사령관. 스탈린그라드 방어를 지휘한 원수.
+chuikov | 바실리 추이코프 | Vasily Chuikov | SOV | 1900 | 1982 | | 스탈린그라드를 사수한 제62군(제8근위군) 사령관. 1945년 베를린에서 독일의 항복 협상을 받았다.
+shumilov | 미하일 슈밀로프 | Mikhail Shumilov | SOV | 1895 | 1975 | | 제64군(제7근위군) 사령관. 그의 부대가 1943년 1월 파울루스를 포로로 잡았다.
+tolbukhin | 표도르 톨부힌 | Fyodor Tolbukhin | SOV | 1894 | 1949 | | 스탈린그라드의 제57군, 이후 남부·우크라이나 제4·3전선군 사령관. 1944–45년 발칸과 빈을 해방한 원수.
+trufanov | 니콜라이 트루파노프 | Nikolai Trufanov | SOV | 1900 | 1982 | | 천왕성 작전 때 제51군 사령관.
+gerasimenko | 바실리 게라시멘코 | Vasily Gerasimenko | SOV | 1900 | 1961 | | 1942년 제28군 사령관.
+tanaschishin | 트로핌 타나시신 | Trofim Tanaschishin | SOV | 1903 | 1944 | | 제13전차(제4근위기계화)군단장. 1944년 전사했다.
+volsky | 바실리 볼스키 | Vasily Volsky | SOV | 1901 | 1946 | | 천왕성 작전의 남쪽 집게 제4기계화군단장, 1944–45년 제5근위전차군 사령관.
+shapkin | 티모페이 샤프킨 | Timofey Shapkin | SOV | 1885 | 1943 | | 제정 러시아 시절부터 기병이었던 노장. 1942년 제4기병군단장.
+rodimtsev | 알렉산드르 로딤체프 | Alexander Rodimtsev | SOV | 1905 | 1977 | | 스탈린그라드의 제13근위소총사단장. 스페인 내전에도 참전했다.
+pukhov | 니콜라이 푸호프 | Nikolai Pukhov | SOV | 1895 | 1958 | | 1942–45년 제13군 사령관. 쿠르스크 북쪽 포니리에서 모델의 주공을 막았다.
+chernyakhovsky | 이반 체르냐홉스키 | Ivan Chernyakhovsky | SOV | 1907 | 1945 | | 쿠르스크의 제60군, 1944년 벨라루스 제3전선군 사령관. 1945년 2월 동프로이센에서 전사했다.
+chibisov | 니칸드르 치비소프 | Nikandr Chibisov | SOV | 1892 | 1959 | | 1943년 제38군 사령관.
+moskalenko | 키릴 모스칼렌코 | Kirill Moskalenko | SOV | 1902 | 1985 | | 1943–45년 제40군·제38군 사령관. 전후 베리야 체포에 참여했다.
+kryuchenkin | 바실리 크류첸킨 | Vasily Kryuchenkin | SOV | 1894 | 1976 | | 쿠르스크의 제69군, 바그라티온의 제33군 사령관.
+rotmistrov | 파벨 로트미스트로프 | Pavel Rotmistrov | SOV | 1901 | 1982 | | 제5근위전차군 사령관. 프로호롭카 전차전을 지휘했다.
+gorbatov | 알렉산드르 고르바토프 | Alexander Gorbatov | SOV | 1891 | 1973 | | 대숙청 때 투옥되었다가 복귀. 1943–45년 제3군 사령관.
+kolpakchi | 블라디미르 콜팍치 | Vladimir Kolpakchi | SOV | 1899 | 1961 | | 제63군, 1944–45년 제69군 사령관.
+belov_p | 파벨 벨로프 | Pavel Belov | SOV | 1897 | 1962 | | 1941년 모스크바 반격의 기병군단장, 1943–45년 제61군 사령관.
+sokolovsky | 바실리 소콜롭스키 | Vasily Sokolovsky | SOV | 1897 | 1968 | | 1943–44년 서부전선군 사령관, 1945년 베를린 작전 때 주코프의 부사령관.
+bagramyan | 이반 바그라먄 | Ivan Bagramyan | SOV | 1897 | 1982 | | 아르메니아 출신 원수. 쿠르스크의 제11근위군, 1943–45년 발트 제1전선군 사령관.
+malyshev | 표트르 말리셰프 | Pyotr Malyshev | SOV | 1898 | 1972 | | 1944년 제4충격군 사령관.
+beloborodov | 아파나시 벨로보로도프 | Afanasy Beloborodov | SOV | 1903 | 1990 | | 1944–45년 제43군 사령관, 1945년 만주 작전의 제1적기군 사령관.
+lyudnikov | 이반 류드니코프 | Ivan Lyudnikov | SOV | 1902 | 1976 | | 스탈린그라드 "류드니코프 섬"을 지킨 사단장, 1944년 제39군 사령관.
+krylov | 니콜라이 크릴로프 | Nikolay Krylov | SOV | 1903 | 1972 | | 오데사·세바스토폴·스탈린그라드의 참모장, 1944–45년 제5군 사령관.
+galitsky | 쿠지마 갈리츠키 | Kuzma Galitsky | SOV | 1897 | 1973 | | 1943–45년 제11근위군 사령관.
+glagolev | 바실리 글라골레프 | Vasily Glagolev | SOV | 1896 | 1947 | | 1944년 제31군 사령관, 1945년 제9근위군 사령관.
+grishin | 이반 그리신 | Ivan Grishin | SOV | 1901 | 1951 | | 1943–45년 제49군 사령관.
+boldin | 이반 볼딘 | Ivan Boldin | SOV | 1892 | 1965 | | 1941년 비아위스토크 포위망을 뚫고 나왔다. 1941–45년 제50군 사령관으로 툴라를 지켰다.
+luchinsky | 알렉산드르 루친스키 | Aleksandr Luchinsky | SOV | 1900 | 1990 | | 1944–45년 제28군 사령관.
+panov | 미하일 파노프 | Mikhail Panov | SOV | 1901 | 1977 | | 1943–45년 제1근위전차군단장.
+bakharov | 보리스 바하로프 | Boris Bakharov | SOV | 1902 | 1944 | | 제9전차군단장. 1944년 7월 전사했다.
+fedyuninsky | 이반 페듀닌스키 | Ivan Fedyuninsky | SOV | 1900 | 1977 | | 할힌골의 영웅. 레닌그라드 방어 후 1944–45년 제2충격군 사령관.
+perkhorovich | 프란츠 페르호로비치 | Franz Perkhorovich | SOV | 1894 | 1961 | | 1944–45년 제47군 사령관.
+tsvetaev | 뱌체슬라프 츠베타예프 | Vyacheslav Tsvetayev | SOV | 1893 | 1950 | | 1944–45년 제33군 사령관.
+bogdanov | 세묜 보그다노프 | Semyon Bogdanov | SOV | 1894 | 1960 | | 1943–45년 제2(근위)전차군 사령관.
+gordov | 바실리 고르도프 | Vasily Gordov | SOV | 1896 | 1950 | | 1942년 스탈린그라드전선군 사령관, 1944–45년 제3근위군 사령관. 전후 숙청되었다.
+koroteev | 콘스탄틴 코로테예프 | Konstantin Koroteev | SOV | 1901 | 1953 | | 1943–45년 제52군 사령관.
+rybalko | 파벨 리발코 | Pavel Rybalko | SOV | 1894 | 1948 | | 1943–45년 제3근위전차군 사령관. 키예프·르보프·베를린·프라하에서 싸웠다.
+popov_v | 바실리 포포프 | Vasily Popov | SOV | 1894 | 1967 | Vasily Popov (general) | 1944–45년 제70군 사령관.
+# ---------------------------------------------------------------- Axis minor powers
+antonescu | 이온 안토네스쿠 | Ion Antonescu | ROU | 1882 | 1946 | | 1940–44년 루마니아의 독재자(국가지도자). 소련 침공에 가담했고 유대인·로마 학살을 자행했다. 1944년 8월 쿠데타로 체포되어 처형되었다.
+michael1 | 미하이 1세 | Michael I of Romania | ROU | 1921 | 2017 | | 루마니아 국왕. 1944년 8월 23일 안토네스쿠를 체포하고 연합국 편으로 돌아섰다.
+dumitrescu | 페트레 두미트레스쿠 | Petre Dumitrescu | ROU | 1882 | 1950 | | 1941–44년 루마니아 제3군 사령관. 오데사와 스탈린그라드에서 싸웠다.
+ciuperca | 니콜라에 치우페르커 | Nicolae Ciupercă | ROU | 1882 | 1950 | | 1941년 루마니아 제4군 사령관. 오데사 공략이 지지부진해 교체되었다.
+constantinescu | 콘스탄틴 콘스탄티네스쿠클랍스 | Constantin Constantinescu-Claps | ROU | 1884 | 1961 | | 1942–43년 루마니아 제4군 사령관.
+dragalina | 코르넬리우 드라갈리나 | Corneliu Dragalina | ROU | 1887 | 1949 | | 스탈린그라드 남쪽의 루마니아 제6군단장.
+gherghe | 라두 게르게 | Radu Gherghe | ROU | 1890 | 1977 | | 루마니아 제1기갑사단장(1942).
+horthy | 호르티 미클로시 | Miklós Horthy | HUN | 1868 | 1957 | | 1920–44년 헝가리 섭정. 추축국에 가담했으나 1944년 10월 휴전을 시도하다 독일에 의해 실각했다.
+szalasi | 살러시 페렌츠 | Ferenc Szálasi | HUN | 1897 | 1946 | | 파시스트 화살십자당 지도자. 1944년 10월 독일의 지원으로 집권해 유대인 학살을 재개했다. 전후 처형되었다.
+jany | 야니 구스타프 | Gusztáv Jány | HUN | 1883 | 1947 | | 헝가리 제2군 사령관. 1943년 1월 돈강에서 군 대부분을 잃었다.
+miklos | 미클로시 벨라 | Béla Miklós | HUN | 1890 | 1948 | | 1941년 헝가리 기동군단장, 1944년 제1군 사령관으로 소련 편으로 넘어갔다.
+mussolini | 베니토 무솔리니 | Benito Mussolini | ITA | 1883 | 1945 | | 이탈리아 파시스트 독재자(1922–43). 1943년 7월 실각했다가 독일에 의해 구출되어 이탈리아 사회 공화국 수반이 되었다. 1945년 4월 파르티잔에게 처형되었다.
+victoremmanuel3 | 비토리오 에마누엘레 3세 | Victor Emmanuel III | ITA | 1869 | 1947 | | 이탈리아 국왕(1900–46). 1943년 7월 무솔리니를 해임했다.
+badoglio | 피에트로 바돌리오 | Pietro Badoglio | ITA | 1871 | 1956 | | 무솔리니 실각 후 총리(1943–44). 9월 8일 연합국과의 휴전을 발표했다.
+gariboldi | 이탈로 가리볼디 | Italo Gariboldi | ITA | 1879 | 1970 | | 1942–43년 소련에 파견된 이탈리아 제8군(ARMIR) 사령관.
+destefanis | 주세페 데스테파니스 | Giuseppe De Stefanis | ITA | 1885 | 1965 | | 엘 알라메인의 이탈리아 제20차량화군단장.
+navarini | 에네아 나바리니 | Enea Navarini | ITA | 1885 | 1977 | | 엘 알라메인의 이탈리아 제21군단장.
+frattini | 엔리코 프라티니 | Enrico Frattini | ITA | 1891 | 1977 | | 엘 알라메인에서 끝까지 버틴 폴고레 공수사단장.
+arena | 프란체스코 아레나 | Francesco Arena | ITA | | | Francesco Antonio Arena | 엘 알라메인의 아리에테 기갑사단장.
+bitossi | 제르바시오 비토시 | Gervasio Bitossi | ITA | 1884 | 1951 | | 리토리오 기갑사단장(1942).
+laferla | 프란체스코 라페를라 | Francesco La Ferla | ITA | 1885 | 1959 | | 트리에스테 차량화사단장(1942).
+mannerheim | 카를 구스타프 만네르헤임 | Carl Gustaf Emil Mannerheim | FIN | 1867 | 1951 | | 핀란드군 총사령관 원수. 겨울전쟁과 계속전쟁을 지휘했고 1944–46년 대통령으로 소련과 휴전했다.
+ryti | 리스토 뤼티 | Risto Ryti | FIN | 1889 | 1956 | | 1940–44년 핀란드 대통령.
+heinrichs | 에리크 헤인릭스 | Erik Heinrichs | FIN | 1890 | 1965 | | 1941년 카렐리야군 사령관, 이후 핀란드군 참모총장.
+catlos | 페르디난트 차틀로시 | Ferdinand Čatloš | SVK | 1895 | 1972 | | 슬로바키아 국방장관 겸 야전군 사령관. 1944년 민족봉기 때 봉기군에 합류하려 했다.
+tiso | 요제프 티소 | Jozef Tiso | SVK | 1887 | 1947 | | 가톨릭 사제 출신 슬로바키아 대통령(1939–45). 유대인 추방에 협력했고 전후 처형되었다.
+boris3 | 보리스 3세 | Boris III of Bulgaria | BGR | 1894 | 1943 | | 불가리아 국왕. 추축국에 가담했지만 소련 참전과 불가리아 유대인 추방은 거부했다. 1943년 8월 급사했다.
+# ---------------------------------------------------------------- United States
+eisenhower | 드와이트 아이젠하워 | Dwight D. Eisenhower | USA | 1890 | 1969 | | 횃불·시칠리아 상륙을 지휘했고 1944–45년 연합국 원정군 최고사령관. 전후 미국 대통령(1953–61).
+bradley | 오마 브래들리 | Omar Bradley | USA | 1893 | 1981 | | 노르망디의 미 제1군, 1944–45년 미 제12집단군 사령관.
+collins | J. 로턴 콜린스 | J. Lawton Collins | USA | 1896 | 1987 | | 과달카날을 거쳐 노르망디의 제7군단장. 유타 해안과 셰르부르, 코브라 작전을 지휘했다.
+barton | 레이먼드 바턴 | Raymond O. Barton | USA | 1889 | 1963 | | 유타 해안에 상륙한 제4보병사단장.
+ridgway | 매슈 리지웨이 | Matthew Ridgway | USA | 1895 | 1993 | | 제82공수사단장. 한국전쟁 때 미 제8군 사령관으로 전선을 되살렸다.
+taylor_m | 맥스웰 테일러 | Maxwell D. Taylor | USA | 1901 | 1987 | | 제101공수사단장. 1953년 한국전쟁 말기 미 제8군 사령관.
+gerow | 레너드 게로 | Leonard T. Gerow | USA | 1888 | 1972 | | 오마하 해안과 아르덴 북부의 제5군단장.
+huebner | 클래런스 휴브너 | Clarence R. Huebner | USA | 1888 | 1972 | | 오마하 해안의 제1보병사단장.
+gerhardt | 찰스 게르하르트 | Charles H. Gerhardt | USA | 1895 | 1976 | | 오마하 해안의 제29보병사단장.
+rudder | 제임스 러더 | James Earl Rudder | USA | 1910 | 1970 | | 푸앵트 뒤 오크 절벽을 오른 제2레인저대대장.
+hodges | 코트니 호지스 | Courtney Hodges | USA | 1887 | 1966 | | 1944–45년 미 제1군 사령관.
+middleton | 트로이 미들턴 | Troy H. Middleton | USA | 1889 | 1976 | | 아르덴 공세 때 바스토뉴에 사령부를 둔 제8군단장.
+lauer | 월터 라우어 | Walter E. Lauer | USA | 1893 | 1966 | | 엘센보른 능선을 지킨 제99보병사단장.
+robertson | 월터 로버트슨 | Walter M. Robertson | USA | 1888 | 1954 | | 제2보병사단장(1942–45).
+jones_a | 앨런 존스 | Alan W. Jones | USA | 1894 | 1969 | | 아르덴에서 2개 연대를 잃은 제106보병사단장.
+cota | 노먼 코타 | Norman Cota | USA | 1893 | 1971 | | 오마하 해안에서 "레인저, 앞장서라!"고 외친 부사단장. 1944년 제28보병사단장.
+hasbrouck | 로버트 해스브룩 | Robert W. Hasbrouck | USA | 1896 | 1985 | | 생비트를 지킨 제7기갑사단장.
+mcauliffe | 앤서니 매콜리프 | Anthony McAuliffe | USA | 1898 | 1975 | | 바스토뉴의 제101공수사단 대리 지휘관. 항복 권고에 "Nuts!"라고 답했다.
+patton | 조지 패튼 | George S. Patton | USA | 1885 | 1945 | | 북아프리카·시칠리아를 거쳐 1944–45년 미 제3군 사령관. 바스토뉴 구출과 라인강 돌파로 유명하다.
+millikin | 존 밀리킨 | John Millikin | USA | 1888 | 1970 | | 바스토뉴를 구출한 제3군단장.
+gaffey | 휴 개피 | Hugh Joseph Gaffey | USA | 1895 | 1946 | | 바스토뉴 포위망을 뚫은 제4기갑사단장.
+simpson | 윌리엄 심프슨 | William Hood Simpson | USA | 1888 | 1980 | | 1944–45년 미 제9군 사령관. 1945년 4월 엘베강에 처음 도달했다.
+# ---------------------------------------------------------------- British Commonwealth
+churchill | 윈스턴 처칠 | Winston Churchill | GBR | 1874 | 1965 | | 1940년 5월부터 영국 총리. 프랑스 함락 후 홀로 싸울 것을 고집했고 루스벨트·스탈린과 함께 연합국을 이끌었다.
+chamberlain | 네빌 체임벌린 | Neville Chamberlain | GBR | 1869 | 1940 | | 영국 총리(1937–40). 뮌헨 협정의 유화정책으로 알려졌고 1939년 9월 독일에 선전포고했다.
+george6 | 조지 6세 | George VI | GBR | 1895 | 1952 | | 영국 국왕(1936–52). 공습 중에도 런던에 머물렀다.
+montgomery | 버나드 몽고메리 | Bernard Montgomery | GBR | 1887 | 1976 | | 엘 알라메인의 영국 제8군, 노르망디·서부전선의 제21집단군 사령관. 1945년 5월 북독일 주둔 독일군의 항복을 받았다.
+alexander | 해럴드 알렉산더 | Harold Alexander | GBR | 1891 | 1969 | Harold Alexander, 1st Earl Alexander of Tunis | 됭케르크 철수의 마지막 지휘관, 1942년 중동군 사령관, 이후 이탈리아 전역의 연합군을 지휘했다.
+gort | 고트 경 | Lord Gort | GBR | 1886 | 1946 | John Vereker, 6th Viscount Gort | 1939–40년 영국 원정군 사령관. 됭케르크 철수를 결단했다.
+dempsey | 마일스 뎀프시 | Miles Dempsey | GBR | 1896 | 1969 | | 1944–45년 영국 제2군 사령관.
+bucknall | 제라드 버크널 | Gerard Bucknall | GBR | 1894 | 1980 | | 노르망디의 제30군단장. 빌레르보카주 실패 후 교체되었다.
+crocker | 존 크로커 | John Crocker | GBR | 1896 | 1963 | | 노르망디의 제1군단장.
+graham_d | 더글러스 그레이엄 | Douglas Graham | GBR | 1893 | 1971 | Douglas Graham (British Army officer) | 골드 해안의 제50보병사단장.
+rennie | 톰 레니 | Tom Rennie | GBR | 1900 | 1945 | | 소드 해안의 제3보병사단장. 1945년 라인강 도하 중 전사했다.
+gale | 리처드 게일 | Richard Gale | GBR | 1896 | 1982 | Richard Nelson Gale | 노르망디의 제6공수사단장.
+horrocks | 브라이언 호록스 | Brian Horrocks | GBR | 1895 | 1985 | | 엘 알라메인의 제13군단장, 1944–45년 제30군단장(마켓 가든·아르덴).
+leese | 올리버 리스 | Oliver Leese | GBR | 1894 | 1978 | | 엘 알라메인의 제30군단장, 이후 이탈리아의 영국 제8군 사령관.
+lumsden | 허버트 럼스던 | Herbert Lumsden | GBR | 1897 | 1945 | | 엘 알라메인의 제10군단장. 1945년 1월 태평양에서 가미카제 공격으로 전사했다.
+briggs | 레이먼드 브릭스 | Raymond Briggs | GBR | 1895 | 1985 | Raymond Briggs (British Army officer) | 엘 알라메인의 제1기갑사단장.
+gatehouse | 알렉산더 게이트하우스 | Alexander Gatehouse | GBR | 1895 | 1964 | | 엘 알라메인의 제10기갑사단장.
+harding | 존 하딩 | John Harding | GBR | 1896 | 1989 | John Harding, 1st Baron Harding of Petherton | 엘 알라메인의 제7기갑사단장.
+hughes_i | 아이버 휴스 | Ivor Hughes | GBR | 1897 | 1962 | Ivor Hughes (British Army officer) | 엘 알라메인의 제44보병사단장.
+nichols | 존 니컬스 | John Nichols | GBR | 1896 | 1955 | John Sebastian Nichols | 엘 알라메인의 제50보병사단장.
+wimberley | 더글러스 윔벌리 | Douglas Wimberley | GBR | 1896 | 1983 | | 엘 알라메인의 제51(하일랜드)사단장.
+morshead | 레슬리 모스헤드 | Leslie Morshead | AUS | 1889 | 1959 | | 1941년 토브루크를 지킨 호주 제9사단장.
+freyberg | 버나드 프레이버그 | Bernard Freyberg | NZL | 1889 | 1963 | | 뉴질랜드 원정군 사령관. 크레타 방어(1941)와 엘 알라메인, 몬테카시노에서 싸웠다.
+pienaar | 단 피나르 | Dan Pienaar | SAF | 1893 | 1942 | | 남아프리카 제1보병사단장. 1942년 12월 비행기 사고로 사망했다.
+tuker | 프랜시스 터커 | Francis Tuker | IND | 1894 | 1967 | | 인도 제4보병사단장(1942–44).
+keller_r | 로드 켈러 | Rod Keller | CAN | 1900 | 1954 | | 주노 해안의 캐나다 제3보병사단장.
+# ---------------------------------------------------------------- France
+daladier | 에두아르 달라디에 | Édouard Daladier | FRA | 1884 | 1970 | | 프랑스 총리(1938–40). 뮌헨 협정에 서명했고 1939년 독일에 선전포고했다.
+petain | 필리프 페탱 | Philippe Pétain | FRA | 1856 | 1951 | | 1차 대전 베르됭의 영웅. 1940년 휴전을 맺고 비시 정권의 국가원수로 나치에 협력했다. 전후 사형선고 후 종신형으로 감형되었다.
+degaulle | 샤를 드골 | Charles de Gaulle | FFL | 1890 | 1970 | | 1940년 기갑사단장으로 반격했고, 휴전 후 런던에서 자유 프랑스를 이끌었다. 1944년 임시정부 수반.
+gamelin | 모리스 가믈랭 | Maurice Gamelin | FRA | 1872 | 1958 | | 1940년 5월 연합군 총사령관. 독일의 아르덴 돌파를 막지 못해 5월 19일 해임되었다.
+billotte | 가스통 비요트 | Gaston Billotte | FRA | 1875 | 1940 | | 프랑스 제1집단군 사령관. 1940년 5월 23일 교통사고로 사망했다.
+giraud | 앙리 지로 | Henri Giraud | FRA | 1879 | 1949 | | 프랑스 제7·9군 사령관. 포로가 되었다가 1942년 탈출해 북아프리카 프랑스군을 이끌었다.
+blanchard | 조르주 블랑샤르 | Georges Blanchard | FRA | 1877 | 1954 | Georges Maurice Jean Blanchard | 프랑스 제1군 사령관(1940).
+corap | 앙드레 코라프 | André Corap | FRA | 1878 | 1953 | | 뫼즈강에서 붕괴한 프랑스 제9군 사령관.
+huntziger | 샤를 훈치제르 | Charles Huntziger | FRA | 1880 | 1941 | | 스당을 지킨 프랑스 제2군 사령관. 휴전 협정에 서명하고 비시 국방장관이 되었다.
+pretelat | 앙드레가스통 프레텔라 | André-Gaston Prételat | FRA | 1874 | 1969 | | 마지노선을 지킨 프랑스 제2집단군 사령관.
+conde | 샤를마리 콩데 | Charles-Marie Condé | FRA | 1876 | 1945 | | 프랑스 제3군 사령관(1940).
+requin | 에두아르 르캥 | Édouard Réquin | FRA | 1879 | 1953 | | 프랑스 제4군 사령관(1940).
+bourret | 빅토르 부레 | Victor Bourret | FRA | 1877 | 1949 | | 프랑스 제5군 사령관(1940).
+besson | 앙투안 베송 | Antoine-Marie-Benoît Besson | FRA | 1876 | 1969 | | 프랑스 제3집단군 사령관(1940).
+garchery | 마르셀 가르셰리 | Marcel Garchery | FRA | | | | 프랑스 제8군 사령관(1940).
+prioux | 르네 프리우 | René Prioux | FRA | 1879 | 1953 | | 아뉘 전차전의 프랑스 기병군단장.
+koenig | 마리피에르 쾨니그 | Marie-Pierre Kœnig | FFL | 1898 | 1970 | | 1942년 비르 하케임을 지킨 자유 프랑스 제1여단장. 1944년 프랑스 국내군(FFI) 사령관.
+# ---------------------------------------------------------------- Poland, Benelux, others
+rydz | 에드바르트 리츠시미그위 | Edward Rydz-Śmigły | POL | 1886 | 1941 | | 폴란드 원수·총사령관(1935–39). 9월 17일 루마니아로 넘어갔다.
+sikorski | 브와디스와프 시코르스키 | Władysław Sikorski | POL | 1881 | 1943 | | 1939–43년 폴란드 망명정부 총리 겸 총사령관. 1943년 지브롤터에서 비행기 사고로 사망했다.
+przedrzymirski | 에밀 크루코비치프셰드지미르스키 | Emil Krukowicz-Przedrzymirski | POL | 1886 | 1957 | | 모들린군 사령관(1939).
+bortnowski | 브와디스와프 보르트노프스키 | Władysław Bortnowski | POL | 1891 | 1966 | | 포모제군 사령관(1939).
+kutrzeba | 타데우시 쿠트르제바 | Tadeusz Kutrzeba | POL | 1886 | 1947 | | 포즈난군 사령관. 브주라 반격을 지휘했다.
+rommel_j | 율리우시 룸멜 | Juliusz Rómmel | POL | 1881 | 1967 | | 우치군 사령관, 이어 바르샤바 방어를 지휘했다.
+szylling | 안토니 실링 | Antoni Szylling | POL | 1884 | 1971 | | 크라쿠프군 사령관(1939).
+fabrycy | 카지미에시 파브리치 | Kazimierz Fabrycy | POL | 1888 | 1958 | | 카르파티군 사령관(1939).
+dab | 스테판 동프비에르나츠키 | Stefan Dąb-Biernacki | POL | 1890 | 1959 | | 프루시군 사령관(1939).
+mlot | 체스와프 므워트피아우코프스키 | Czesław Młot-Fijałkowski | POL | 1892 | 1944 | | 나레프 작전집단 사령관(1939).
+sucharski | 헨리크 수하르스키 | Henryk Sucharski | POL | 1898 | 1946 | | 베스테르플라테 수비대장.
+unrug | 유제프 운루크 | Józef Unrug | POL | 1884 | 1973 | | 폴란드 해군 제독. 헬 반도를 10월 2일까지 지켰다.
+poplawski | 스타니스와프 포프와프스키 | Stanisław Popławski | POL | 1902 | 1973 | | 1945년 폴란드 제1군 사령관.
+swierczewski | 카롤 시비에르체프스키 | Karol Świerczewski | POL | 1897 | 1947 | | 스페인 내전의 "발터 장군". 1945년 폴란드 제2군 사령관.
+leopold3 | 레오폴드 3세 | Leopold III of Belgium | BEL | 1901 | 1983 | | 벨기에 국왕 겸 총사령관. 1940년 5월 28일 항복하고 독일 점령 하에 남았다.
+wilhelmina | 빌헬미나 여왕 | Wilhelmina of the Netherlands | NLD | 1880 | 1962 | | 네덜란드 여왕. 런던에서 망명정부와 저항을 상징했다.
+winkelman | 헨리 빙켈만 | Henri Winkelman | NLD | 1876 | 1952 | | 1940년 네덜란드군 총사령관.
+christian10 | 크리스티안 10세 | Christian X of Denmark | DNK | 1870 | 1947 | | 덴마크 국왕. 점령 중 매일 말을 타고 코펜하겐을 돌며 저항의 상징이 되었다.
+haakon7 | 호콘 7세 | Haakon VII | NOR | 1872 | 1957 | | 노르웨이 국왕. 독일의 항복 요구를 거부하고 런던으로 망명했다.
+quisling | 비드쿤 크비슬링 | Vidkun Quisling | NOR | 1887 | 1945 | | 노르웨이 나치 협력 정부 수반. 그의 이름은 "매국노"를 뜻하는 말이 되었다. 전후 처형되었다.
+benes | 에드바르트 베네시 | Edvard Beneš | CSK | 1884 | 1948 | | 체코슬로바키아 대통령. 뮌헨 협정 후 사임하고 런던에서 망명정부를 이끌었다.
+hacha | 에밀 하하 | Emil Hácha | CSK | 1872 | 1945 | | 1939년 3월 히틀러의 위협에 굴복해 보헤미아·모라비아 보호령 대통령이 되었다.
+peter2 | 페타르 2세 | Peter II of Yugoslavia | YUG | 1923 | 1970 | | 1941년 3월 쿠데타로 친정을 시작한 유고슬라비아 국왕. 침공 후 망명했다.
+tito | 요시프 브로즈 티토 | Josip Broz Tito | PLA | 1892 | 1980 | | 유고슬라비아 공산 파르티잔 지도자. 연합국의 지원을 받아 나라를 해방하고 전후 유고슬라비아를 이끌었다.
+metaxas | 이오아니스 메탁사스 | Ioannis Metaxas | GRC | 1871 | 1941 | | 그리스 총리(1936–41). 1940년 10월 이탈리아의 최후통첩에 "오히(아니오)"라고 답했다.
+george2 | 요르요스 2세 | George II of Greece | GRC | 1890 | 1947 | | 그리스 국왕. 1941년 크레타를 거쳐 망명했다.
+franco | 프란시스코 프랑코 | Francisco Franco | ESP | 1892 | 1975 | | 내전 승리 후 스페인 국가원수. 히틀러와 회담했지만 참전하지 않았다.

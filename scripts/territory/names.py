@@ -1,0 +1,23 @@
+"""Korean / English names for pre-war countries & territories (code → (ko, en))."""
+COUNTRY_NAMES = {
+    "GBR": ("영국", "United Kingdom"), "IRL": ("아일랜드", "Ireland"), "NLD": ("네덜란드", "Netherlands"),
+    "BEL": ("벨기에", "Belgium"), "LUX": ("룩셈부르크", "Luxembourg"), "FRA": ("프랑스", "France"),
+    "CHE": ("스위스", "Switzerland"), "ESP": ("스페인", "Spain"), "PRT": ("포르투갈", "Portugal"),
+    "DEU": ("독일", "Germany"), "POL": ("폴란드", "Poland"), "AUT": ("오스트리아", "Austria"),
+    "HUN": ("헝가리", "Hungary"), "CSK": ("체코슬로바키아", "Czechoslovakia"), "ITA": ("이탈리아", "Italy"),
+    "MLT": ("몰타", "Malta"), "ALB": ("알바니아", "Albania"), "YUG": ("유고슬라비아", "Yugoslavia"),
+    "GRC": ("그리스", "Greece"), "CYP": ("키프로스", "Cyprus"), "BGR": ("불가리아", "Bulgaria"),
+    "ROU": ("루마니아", "Romania"), "SOV": ("소련", "Soviet Union"), "EST": ("에스토니아", "Estonia"),
+    "LVA": ("라트비아", "Latvia"), "LTU": ("리투아니아", "Lithuania"), "FIN": ("핀란드", "Finland"),
+    "SWE": ("스웨덴", "Sweden"), "NOR": ("노르웨이", "Norway"), "DNK": ("덴마크", "Denmark"),
+    "ISL": ("아이슬란드", "Iceland"), "MAR": ("프랑스령 모로코", "French Morocco"),
+    "SMA": ("스페인령 모로코", "Spanish Morocco"), "SWA": ("스페인령 서아프리카", "Spanish West Africa"),
+    "DZA": ("프랑스령 알제리", "French Algeria"), "TUN": ("프랑스령 튀니지", "French Tunisia"),
+    "LBY": ("이탈리아령 리비아", "Italian Libya"), "IRN": ("이란", "Iran"), "TUR": ("튀르키예", "Turkey"),
+    "IRQ": ("이라크", "Iraq"), "EGY": ("이집트", "Egypt"), "SYR": ("프랑스령 시리아", "French Syria"),
+    "LBN": ("레바논", "Lebanon"), "JOR": ("트란스요르단", "Transjordan"), "PAL": ("영국령 팔레스타인", "Mandatory Palestine"),
+    "SAU": ("사우디아라비아", "Saudi Arabia"), "QAT": ("카타르", "Qatar"), "TRU": ("휴전 오만", "Trucial States"),
+    "OMN": ("오만", "Oman"), "AFG": ("아프가니스탄", "Afghanistan"), "FWA": ("프랑스령 서아프리카", "French West Africa"),
+    "FEA": ("프랑스령 적도아프리카", "French Equatorial Africa"), "SDN": ("앵글로-이집트 수단", "Anglo-Egyptian Sudan"),
+    "IND": ("영국령 인도", "British India"),
+}

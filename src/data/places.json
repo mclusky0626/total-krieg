@@ -1,0 +1,3410 @@
+{
+ "berlin": {
+  "ko": "베를린",
+  "en": "Berlin",
+  "lon": 13.4105,
+  "lat": 52.5244,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "moscow": {
+  "ko": "모스크바",
+  "en": "Moscow",
+  "lon": 37.6178,
+  "lat": 55.752,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "london": {
+  "ko": "런던",
+  "en": "London",
+  "lon": -0.1257,
+  "lat": 51.5085,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "paris": {
+  "ko": "파리",
+  "en": "Paris",
+  "lon": 2.3488,
+  "lat": 48.8534,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "rome": {
+  "ko": "로마",
+  "en": "Rome",
+  "lon": 12.5113,
+  "lat": 41.8919,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "warsaw": {
+  "ko": "바르샤바",
+  "en": "Warsaw",
+  "lon": 21.0118,
+  "lat": 52.2298,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "leningrad": {
+  "ko": "레닌그라드",
+  "en": "Leningrad",
+  "lon": 30.3141,
+  "lat": 59.9386,
+  "rank": 1
+ },
+ "stalingrad": {
+  "ko": "스탈린그라드",
+  "en": "Stalingrad",
+  "lon": 44.4976,
+  "lat": 48.7138,
+  "rank": 1
+ },
+ "kiev": {
+  "ko": "키예프",
+  "en": "Kiev",
+  "lon": 30.5238,
+  "lat": 50.4547,
+  "rank": 1
+ },
+ "vienna": {
+  "ko": "빈",
+  "en": "Vienna",
+  "lon": 16.3721,
+  "lat": 48.2085,
+  "rank": 1
+ },
+ "budapest": {
+  "ko": "부다페스트",
+  "en": "Budapest",
+  "lon": 19.0404,
+  "lat": 47.4984,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "bucharest": {
+  "ko": "부쿠레슈티",
+  "en": "Bucharest",
+  "lon": 26.1063,
+  "lat": 44.4323,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "belgrade": {
+  "ko": "베오그라드",
+  "en": "Belgrade",
+  "lon": 20.4651,
+  "lat": 44.804,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "athens": {
+  "ko": "아테네",
+  "en": "Athens",
+  "lon": 23.7278,
+  "lat": 37.9838,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "helsinki": {
+  "ko": "헬싱키",
+  "en": "Helsinki",
+  "lon": 24.9354,
+  "lat": 60.1695,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "stockholm": {
+  "ko": "스톡홀름",
+  "en": "Stockholm",
+  "lon": 18.0687,
+  "lat": 59.3294,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "oslo": {
+  "ko": "오슬로",
+  "en": "Oslo",
+  "lon": 10.7461,
+  "lat": 59.9127,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "copenhagen": {
+  "ko": "코펜하겐",
+  "en": "Copenhagen",
+  "lon": 12.5655,
+  "lat": 55.6759,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "amsterdam": {
+  "ko": "암스테르담",
+  "en": "Amsterdam",
+  "lon": 4.8897,
+  "lat": 52.374,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "brussels": {
+  "ko": "브뤼셀",
+  "en": "Brussels",
+  "lon": 4.3488,
+  "lat": 50.8505,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "madrid": {
+  "ko": "마드리드",
+  "en": "Madrid",
+  "lon": -3.7026,
+  "lat": 40.4165,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "lisbon": {
+  "ko": "리스본",
+  "en": "Lisbon",
+  "lon": -9.1498,
+  "lat": 38.7251,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "ankara": {
+  "ko": "앙카라",
+  "en": "Ankara",
+  "lon": 32.8543,
+  "lat": 39.9199,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "istanbul": {
+  "ko": "이스탄불",
+  "en": "Istanbul",
+  "lon": 28.9497,
+  "lat": 41.0138,
+  "rank": 2
+ },
+ "cairo": {
+  "ko": "카이로",
+  "en": "Cairo",
+  "lon": 31.2497,
+  "lat": 30.0626,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "algiers": {
+  "ko": "알제",
+  "en": "Algiers",
+  "lon": 3.0875,
+  "lat": 36.7323,
+  "rank": 2
+ },
+ "tunis": {
+  "ko": "튀니스",
+  "en": "Tunis",
+  "lon": 10.1658,
+  "lat": 36.819,
+  "rank": 2
+ },
+ "tripoli": {
+  "ko": "트리폴리",
+  "en": "Tripoli",
+  "lon": 13.1873,
+  "lat": 32.8874,
+  "rank": 2
+ },
+ "prague": {
+  "ko": "프라하",
+  "en": "Prague",
+  "lon": 14.4208,
+  "lat": 50.088,
+  "rank": 1
+ },
+ "sofia": {
+  "ko": "소피아",
+  "en": "Sofia",
+  "lon": 23.3241,
+  "lat": 42.6975,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "tirana": {
+  "ko": "티라나",
+  "en": "Tirana",
+  "lon": 19.8187,
+  "lat": 41.3274,
+  "rank": 2
+ },
+ "bern": {
+  "ko": "베른",
+  "en": "Bern",
+  "lon": 7.4474,
+  "lat": 46.9481,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "dublin": {
+  "ko": "더블린",
+  "en": "Dublin",
+  "lon": -6.2489,
+  "lat": 53.3331,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "riga": {
+  "ko": "리가",
+  "en": "Riga",
+  "lon": 24.1059,
+  "lat": 56.946,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "tallinn": {
+  "ko": "탈린",
+  "en": "Tallinn",
+  "lon": 24.7535,
+  "lat": 59.437,
+  "rank": 1,
+  "flags": "cap"
+ },
+ "kaunas": {
+  "ko": "카우나스",
+  "en": "Kaunas",
+  "lon": 23.9091,
+  "lat": 54.9016,
+  "rank": 2,
+  "flags": "cap"
+ },
+ "vilnius": {
+  "ko": "빌뉴스",
+  "en": "Vilnius (Wilno)",
+  "lon": 25.2798,
+  "lat": 54.6892,
+  "rank": 2
+ },
+ "minsk": {
+  "ko": "민스크",
+  "en": "Minsk",
+  "lon": 27.5665,
+  "lat": 53.9002,
+  "rank": 1
+ },
+ "kharkov": {
+  "ko": "하리코프",
+  "en": "Kharkov",
+  "lon": 36.2548,
+  "lat": 49.9818,
+  "rank": 1
+ },
+ "luxembourg": {
+  "ko": "룩셈부르크",
+  "en": "Luxembourg",
+  "lon": 6.1327,
+  "lat": 49.6098,
+  "rank": 2,
+  "flags": "cap"
+ },
+ "vichy": {
+  "ko": "비시",
+  "en": "Vichy",
+  "lon": 3.4258,
+  "lat": 46.1271,
+  "rank": 2
+ },
+ "bratislava": {
+  "ko": "브라티슬라바",
+  "en": "Bratislava",
+  "lon": 17.1067,
+  "lat": 48.1482,
+  "rank": 2
+ },
+ "zagreb": {
+  "ko": "자그레브",
+  "en": "Zagreb",
+  "lon": 15.978,
+  "lat": 45.8144,
+  "rank": 2
+ },
+ "ljubljana": {
+  "ko": "류블랴나",
+  "en": "Ljubljana",
+  "lon": 14.5051,
+  "lat": 46.0511,
+  "rank": 3
+ },
+ "rabat": {
+  "ko": "라바트",
+  "en": "Rabat",
+  "lon": -6.8326,
+  "lat": 34.0132,
+  "rank": 2
+ },
+ "damascus": {
+  "ko": "다마스쿠스",
+  "en": "Damascus",
+  "lon": 36.2913,
+  "lat": 33.5102,
+  "rank": 2
+ },
+ "beirut": {
+  "ko": "베이루트",
+  "en": "Beirut",
+  "lon": 35.5016,
+  "lat": 33.8933,
+  "rank": 2
+ },
+ "baghdad": {
+  "ko": "바그다드",
+  "en": "Baghdad",
+  "lon": 44.4009,
+  "lat": 33.3406,
+  "rank": 2
+ },
+ "jerusalem": {
+  "ko": "예루살렘",
+  "en": "Jerusalem",
+  "lon": 35.2163,
+  "lat": 31.769,
+  "rank": 2
+ },
+ "tehran": {
+  "ko": "테헤란",
+  "en": "Tehran",
+  "lon": 51.4215,
+  "lat": 35.6944,
+  "rank": 2
+ },
+ "baku": {
+  "ko": "바쿠",
+  "en": "Baku",
+  "lon": 49.892,
+  "lat": 40.3777,
+  "rank": 2
+ },
+ "tbilisi": {
+  "ko": "트빌리시",
+  "en": "Tbilisi",
+  "lon": 44.8341,
+  "lat": 41.6914,
+  "rank": 2
+ },
+ "smolensk": {
+  "ko": "스몰렌스크",
+  "en": "Smolensk",
+  "lon": 32.0509,
+  "lat": 54.7783,
+  "rank": 2
+ },
+ "bryansk": {
+  "ko": "브랸스크",
+  "en": "Bryansk",
+  "lon": 34.3214,
+  "lat": 53.271,
+  "rank": 2
+ },
+ "orel": {
+  "ko": "오룔",
+  "en": "Orel",
+  "lon": 36.0791,
+  "lat": 52.9688,
+  "rank": 2
+ },
+ "kursk": {
+  "ko": "쿠르스크",
+  "en": "Kursk",
+  "lon": 36.1846,
+  "lat": 51.7269,
+  "rank": 2
+ },
+ "tula": {
+  "ko": "툴라",
+  "en": "Tula",
+  "lon": 37.6182,
+  "lat": 54.1961,
+  "rank": 2
+ },
+ "kalinin": {
+  "ko": "칼리닌",
+  "en": "Kalinin",
+  "lon": 35.9006,
+  "lat": 56.8584,
+  "rank": 2
+ },
+ "rzhev": {
+  "ko": "르제프",
+  "en": "Rzhev",
+  "lon": 34.3289,
+  "lat": 56.2629,
+  "rank": 3
+ },
+ "vyazma": {
+  "ko": "뱌지마",
+  "en": "Vyazma",
+  "lon": 34.297,
+  "lat": 55.21,
+  "rank": 3
+ },
+ "kaluga": {
+  "ko": "칼루가",
+  "en": "Kaluga",
+  "lon": 36.27,
+  "lat": 54.5306,
+  "rank": 2
+ },
+ "voronezh": {
+  "ko": "보로네시",
+  "en": "Voronezh",
+  "lon": 39.192,
+  "lat": 51.6683,
+  "rank": 2
+ },
+ "rostov": {
+  "ko": "로스토프",
+  "en": "Rostov",
+  "lon": 39.7077,
+  "lat": 47.22,
+  "rank": 2
+ },
+ "dnepropetrovsk": {
+  "ko": "드네프로페트롭스크",
+  "en": "Dnepropetrovsk",
+  "lon": 35.0407,
+  "lat": 48.4666,
+  "rank": 2
+ },
+ "zaporozhye": {
+  "ko": "자포로지예",
+  "en": "Zaporozhye",
+  "lon": 35.1171,
+  "lat": 47.8517,
+  "rank": 2
+ },
+ "odessa": {
+  "ko": "오데사",
+  "en": "Odessa",
+  "lon": 30.7438,
+  "lat": 46.4857,
+  "rank": 2
+ },
+ "sevastopol": {
+  "ko": "세바스토폴",
+  "en": "Sevastopol",
+  "lon": 33.5213,
+  "lat": 44.608,
+  "rank": 2
+ },
+ "simferopol": {
+  "ko": "심페로폴",
+  "en": "Simferopol",
+  "lon": 34.1108,
+  "lat": 44.9572,
+  "rank": 3
+ },
+ "kerch": {
+  "ko": "케르치",
+  "en": "Kerch",
+  "lon": 36.4754,
+  "lat": 45.3567,
+  "rank": 3
+ },
+ "novorossiysk": {
+  "ko": "노보로시스크",
+  "en": "Novorossiysk",
+  "lon": 37.7618,
+  "lat": 44.7319,
+  "rank": 3
+ },
+ "krasnodar": {
+  "ko": "크라스노다르",
+  "en": "Krasnodar",
+  "lon": 38.9818,
+  "lat": 45.0453,
+  "rank": 2
+ },
+ "maikop": {
+  "ko": "마이코프",
+  "en": "Maikop",
+  "lon": 40.1024,
+  "lat": 44.6079,
+  "rank": 3
+ },
+ "grozny": {
+  "ko": "그로즈니",
+  "en": "Grozny",
+  "lon": 45.6889,
+  "lat": 43.312,
+  "rank": 2
+ },
+ "ordzhonikidze": {
+  "ko": "오르조니키제",
+  "en": "Ordzhonikidze",
+  "lon": 44.6699,
+  "lat": 43.041,
+  "rank": 3
+ },
+ "astrakhan": {
+  "ko": "아스트라한",
+  "en": "Astrakhan",
+  "lon": 48.0408,
+  "lat": 46.3497,
+  "rank": 2
+ },
+ "gorky": {
+  "ko": "고리키",
+  "en": "Gorky",
+  "lon": 44.002,
+  "lat": 56.3287,
+  "rank": 2
+ },
+ "kuibyshev": {
+  "ko": "쿠이비셰프",
+  "en": "Kuibyshev",
+  "lon": 50.1355,
+  "lat": 53.2077,
+  "rank": 2
+ },
+ "saratov": {
+  "ko": "사라토프",
+  "en": "Saratov",
+  "lon": 45.9901,
+  "lat": 51.5405,
+  "rank": 2
+ },
+ "yaroslavl": {
+  "ko": "야로슬라블",
+  "en": "Yaroslavl",
+  "lon": 39.8737,
+  "lat": 57.6299,
+  "rank": 3
+ },
+ "vologda": {
+  "ko": "볼로그다",
+  "en": "Vologda",
+  "lon": 39.884,
+  "lat": 59.2239,
+  "rank": 3
+ },
+ "murmansk": {
+  "ko": "무르만스크",
+  "en": "Murmansk",
+  "lon": 33.0992,
+  "lat": 68.9678,
+  "rank": 2
+ },
+ "arkhangelsk": {
+  "ko": "아르한겔스크",
+  "en": "Arkhangelsk",
+  "lon": 40.5518,
+  "lat": 64.5461,
+  "rank": 2
+ },
+ "petrozavodsk": {
+  "ko": "페트로자보츠크",
+  "en": "Petrozavodsk",
+  "lon": 34.3469,
+  "lat": 61.7849,
+  "rank": 3
+ },
+ "novgorod": {
+  "ko": "노브고로드",
+  "en": "Novgorod",
+  "lon": 31.271,
+  "lat": 58.5213,
+  "rank": 3
+ },
+ "pskov": {
+  "ko": "프스코프",
+  "en": "Pskov",
+  "lon": 28.3318,
+  "lat": 57.8192,
+  "rank": 3
+ },
+ "vitebsk": {
+  "ko": "비텝스크",
+  "en": "Vitebsk",
+  "lon": 30.2049,
+  "lat": 55.1904,
+  "rank": 2
+ },
+ "polotsk": {
+  "ko": "폴로츠크",
+  "en": "Polotsk",
+  "lon": 28.7856,
+  "lat": 55.4879,
+  "rank": 3
+ },
+ "mogilev": {
+  "ko": "모길료프",
+  "en": "Mogilev",
+  "lon": 30.3404,
+  "lat": 53.9088,
+  "rank": 3
+ },
+ "gomel": {
+  "ko": "고멜",
+  "en": "Gomel",
+  "lon": 30.9754,
+  "lat": 52.4345,
+  "rank": 3
+ },
+ "bobruisk": {
+  "ko": "보브루이스크",
+  "en": "Bobruisk",
+  "lon": 29.2055,
+  "lat": 53.1468,
+  "rank": 3
+ },
+ "brest": {
+  "ko": "브레스트",
+  "en": "Brest-Litovsk",
+  "lon": 23.7175,
+  "lat": 52.1089,
+  "rank": 3
+ },
+ "grodno": {
+  "ko": "그로드노",
+  "en": "Grodno",
+  "lon": 23.8289,
+  "lat": 53.6758,
+  "rank": 3
+ },
+ "lvov": {
+  "ko": "리보프",
+  "en": "Lvov (Lwów)",
+  "lon": 24.0232,
+  "lat": 49.8383,
+  "rank": 2
+ },
+ "rovno": {
+  "ko": "로브노",
+  "en": "Rovno",
+  "lon": 26.237,
+  "lat": 50.6204,
+  "rank": 3
+ },
+ "zhitomir": {
+  "ko": "지토미르",
+  "en": "Zhitomir",
+  "lon": 28.6791,
+  "lat": 50.2623,
+  "rank": 3
+ },
+ "vinnitsa": {
+  "ko": "빈니차",
+  "en": "Vinnitsa",
+  "lon": 28.4687,
+  "lat": 49.2322,
+  "rank": 3
+ },
+ "uman": {
+  "ko": "우만",
+  "en": "Uman",
+  "lon": 30.2194,
+  "lat": 48.7501,
+  "rank": 3
+ },
+ "kishinev": {
+  "ko": "키시뇨프",
+  "en": "Kishinev",
+  "lon": 28.8594,
+  "lat": 47.009,
+  "rank": 2
+ },
+ "chernovtsy": {
+  "ko": "체르노프치",
+  "en": "Czernowitz",
+  "lon": 25.9324,
+  "lat": 48.2904,
+  "rank": 3
+ },
+ "iasi": {
+  "ko": "이아시",
+  "en": "Iași",
+  "lon": 27.6,
+  "lat": 47.1667,
+  "rank": 3
+ },
+ "kirovograd": {
+  "ko": "키로보그라드",
+  "en": "Kirovograd",
+  "lon": 32.2662,
+  "lat": 48.5083,
+  "rank": 3
+ },
+ "nikolaev": {
+  "ko": "니콜라예프",
+  "en": "Nikolaev",
+  "lon": 31.993,
+  "lat": 46.9763,
+  "rank": 3
+ },
+ "kherson": {
+  "ko": "헤르손",
+  "en": "Kherson",
+  "lon": 32.6146,
+  "lat": 46.6369,
+  "rank": 3
+ },
+ "melitopol": {
+  "ko": "멜리토폴",
+  "en": "Melitopol",
+  "lon": 35.382,
+  "lat": 46.8473,
+  "rank": 3
+ },
+ "mariupol": {
+  "ko": "마리우폴",
+  "en": "Mariupol",
+  "lon": 37.5413,
+  "lat": 47.0951,
+  "rank": 3
+ },
+ "taganrog": {
+  "ko": "타간로그",
+  "en": "Taganrog",
+  "lon": 38.9053,
+  "lat": 47.2363,
+  "rank": 3
+ },
+ "stalino": {
+  "ko": "스탈리노",
+  "en": "Stalino",
+  "lon": 37.8022,
+  "lat": 48.023,
+  "rank": 2
+ },
+ "voroshilovgrad": {
+  "ko": "보로실로프그라드",
+  "en": "Voroshilovgrad",
+  "lon": 39.3055,
+  "lat": 48.5681,
+  "rank": 3
+ },
+ "izyum": {
+  "ko": "이지움",
+  "en": "Izyum",
+  "lon": 37.2768,
+  "lat": 49.207,
+  "rank": 4
+ },
+ "belgorod": {
+  "ko": "벨고로드",
+  "en": "Belgorod",
+  "lon": 36.5809,
+  "lat": 50.6034,
+  "rank": 3
+ },
+ "poltava": {
+  "ko": "폴타바",
+  "en": "Poltava",
+  "lon": 34.5537,
+  "lat": 49.5892,
+  "rank": 3
+ },
+ "kremenchug": {
+  "ko": "크레멘추크",
+  "en": "Kremenchug",
+  "lon": 33.4048,
+  "lat": 49.0625,
+  "rank": 3
+ },
+ "cherkassy": {
+  "ko": "체르카시",
+  "en": "Cherkassy",
+  "lon": 32.0574,
+  "lat": 49.4445,
+  "rank": 3
+ },
+ "korsun": {
+  "ko": "코르순",
+  "en": "Korsun",
+  "lon": 31.2517,
+  "lat": 49.4182,
+  "rank": 4
+ },
+ "bilatserkva": {
+  "ko": "벨라야체르코비",
+  "en": "Belaya Tserkov",
+  "lon": 30.1165,
+  "lat": 49.7994,
+  "rank": 4
+ },
+ "chernigov": {
+  "ko": "체르니고프",
+  "en": "Chernigov",
+  "lon": 31.2866,
+  "lat": 51.5054,
+  "rank": 3
+ },
+ "konotop": {
+  "ko": "코노토프",
+  "en": "Konotop",
+  "lon": 33.2004,
+  "lat": 51.2325,
+  "rank": 4
+ },
+ "sumy": {
+  "ko": "수미",
+  "en": "Sumy",
+  "lon": 34.7991,
+  "lat": 50.9174,
+  "rank": 3
+ },
+ "lgov": {
+  "ko": "리고프",
+  "en": "Lgov",
+  "lon": 35.2845,
+  "lat": 51.6893,
+  "rank": 4
+ },
+ "yelets": {
+  "ko": "옐레츠",
+  "en": "Yelets",
+  "lon": 38.5093,
+  "lat": 52.6144,
+  "rank": 3
+ },
+ "livny": {
+  "ko": "리브니",
+  "en": "Livny",
+  "lon": 37.5996,
+  "lat": 52.4243,
+  "rank": 4
+ },
+ "kastornoye": {
+  "ko": "카스토르노예",
+  "en": "Kastornoye",
+  "lon": 38.1307,
+  "lat": 51.8301,
+  "rank": 4
+ },
+ "ostrogozhsk": {
+  "ko": "오스트로고시스크",
+  "en": "Ostrogozhsk",
+  "lon": 39.0781,
+  "lat": 50.8659,
+  "rank": 4
+ },
+ "rossosh": {
+  "ko": "로소시",
+  "en": "Rossosh",
+  "lon": 39.5663,
+  "lat": 50.1964,
+  "rank": 4
+ },
+ "millerovo": {
+  "ko": "밀레로보",
+  "en": "Millerovo",
+  "lon": 40.3998,
+  "lat": 48.9252,
+  "rank": 4
+ },
+ "kantemirovka": {
+  "ko": "칸테미로프카",
+  "en": "Kantemirovka",
+  "lon": 39.8583,
+  "lat": 49.7044,
+  "rank": 4
+ },
+ "boguchar": {
+  "ko": "보구차르",
+  "en": "Boguchar",
+  "lon": 40.5545,
+  "lat": 49.9346,
+  "rank": 4
+ },
+ "serafimovich": {
+  "ko": "세라피모비치",
+  "en": "Serafimovich",
+  "lon": 42.7323,
+  "lat": 49.5757,
+  "rank": 4
+ },
+ "kletskaya": {
+  "ko": "클레츠카야",
+  "en": "Kletskaya",
+  "lon": 43.07,
+  "lat": 49.32,
+  "rank": 4
+ },
+ "kalach": {
+  "ko": "칼라치",
+  "en": "Kalach",
+  "lon": 43.5264,
+  "lat": 48.691,
+  "rank": 3
+ },
+ "surovikino": {
+  "ko": "수로비키노",
+  "en": "Surovikino",
+  "lon": 42.8569,
+  "lat": 48.6097,
+  "rank": 4
+ },
+ "kotelnikovo": {
+  "ko": "코텔니코보",
+  "en": "Kotelnikovo",
+  "lon": 43.1416,
+  "lat": 47.6301,
+  "rank": 4
+ },
+ "abganerovo": {
+  "ko": "압가네로보",
+  "en": "Abganerovo",
+  "lon": 44.07,
+  "lat": 48.13,
+  "rank": 4
+ },
+ "elista": {
+  "ko": "엘리스타",
+  "en": "Elista",
+  "lon": 44.2554,
+  "lat": 46.3079,
+  "rank": 3
+ },
+ "salsk": {
+  "ko": "살스크",
+  "en": "Salsk",
+  "lon": 41.5416,
+  "lat": 46.4749,
+  "rank": 4
+ },
+ "tikhoretsk": {
+  "ko": "티호레츠크",
+  "en": "Tikhoretsk",
+  "lon": 40.1187,
+  "lat": 45.8531,
+  "rank": 4
+ },
+ "armavir": {
+  "ko": "아르마비르",
+  "en": "Armavir",
+  "lon": 41.1147,
+  "lat": 44.9985,
+  "rank": 4
+ },
+ "pyatigorsk": {
+  "ko": "퍄티고르스크",
+  "en": "Pyatigorsk",
+  "lon": 43.0504,
+  "lat": 44.05,
+  "rank": 3
+ },
+ "nalchik": {
+  "ko": "날치크",
+  "en": "Nalchik",
+  "lon": 43.6189,
+  "lat": 43.4981,
+  "rank": 3
+ },
+ "mozdok": {
+  "ko": "모즈도크",
+  "en": "Mozdok",
+  "lon": 44.6516,
+  "lat": 43.7398,
+  "rank": 4
+ },
+ "tuapse": {
+  "ko": "투아프세",
+  "en": "Tuapse",
+  "lon": 39.0833,
+  "lat": 44.1008,
+  "rank": 3
+ },
+ "anapa": {
+  "ko": "아나파",
+  "en": "Anapa",
+  "lon": 37.3162,
+  "lat": 44.895,
+  "rank": 4
+ },
+ "taman": {
+  "ko": "타만",
+  "en": "Taman",
+  "lon": 36.7161,
+  "lat": 45.2117,
+  "rank": 4
+ },
+ "volokolamsk": {
+  "ko": "볼로콜람스크",
+  "en": "Volokolamsk",
+  "lon": 35.9694,
+  "lat": 56.0336,
+  "rank": 3
+ },
+ "mozhaisk": {
+  "ko": "모자이스크",
+  "en": "Mozhaisk",
+  "lon": 36.0272,
+  "lat": 55.5019,
+  "rank": 3
+ },
+ "narofominsk": {
+  "ko": "나로포민스크",
+  "en": "Naro-Fominsk",
+  "lon": 36.7331,
+  "lat": 55.3875,
+  "rank": 4
+ },
+ "maloyaroslavets": {
+  "ko": "말로야로슬라베츠",
+  "en": "Maloyaroslavets",
+  "lon": 36.4719,
+  "lat": 55.0146,
+  "rank": 4
+ },
+ "serpukhov": {
+  "ko": "세르푸호프",
+  "en": "Serpukhov",
+  "lon": 37.4162,
+  "lat": 54.9198,
+  "rank": 4
+ },
+ "aleksin": {
+  "ko": "알렉신",
+  "en": "Aleksin",
+  "lon": 37.067,
+  "lat": 54.5048,
+  "rank": 4
+ },
+ "klin": {
+  "ko": "클린",
+  "en": "Klin",
+  "lon": 36.7292,
+  "lat": 56.3317,
+  "rank": 3
+ },
+ "dmitrov": {
+  "ko": "드미트로프",
+  "en": "Dmitrov",
+  "lon": 37.5204,
+  "lat": 56.3449,
+  "rank": 4
+ },
+ "yakhroma": {
+  "ko": "야흐로마",
+  "en": "Yakhroma",
+  "lon": 37.4577,
+  "lat": 56.3006,
+  "rank": 4
+ },
+ "istra": {
+  "ko": "이스트라",
+  "en": "Istra",
+  "lon": 36.8688,
+  "lat": 55.9198,
+  "rank": 4
+ },
+ "solnechnogorsk": {
+  "ko": "솔네치노고르스크",
+  "en": "Solnechnogorsk",
+  "lon": 36.9708,
+  "lat": 56.1753,
+  "rank": 4
+ },
+ "kashira": {
+  "ko": "카시라",
+  "en": "Kashira",
+  "lon": 38.1821,
+  "lat": 54.8476,
+  "rank": 4
+ },
+ "venev": {
+  "ko": "베뇨프",
+  "en": "Venev",
+  "lon": 38.263,
+  "lat": 54.3507,
+  "rank": 4
+ },
+ "stalinogorsk": {
+  "ko": "스탈리노고르스크",
+  "en": "Stalinogorsk",
+  "lon": 38.2908,
+  "lat": 54.011,
+  "rank": 4
+ },
+ "ryazan": {
+  "ko": "랴잔",
+  "en": "Ryazan",
+  "lon": 39.7041,
+  "lat": 54.627,
+  "rank": 3
+ },
+ "tambov": {
+  "ko": "탐보프",
+  "en": "Tambov",
+  "lon": 41.441,
+  "lat": 52.7363,
+  "rank": 3
+ },
+ "mtsensk": {
+  "ko": "므첸스크",
+  "en": "Mtsensk",
+  "lon": 36.5805,
+  "lat": 53.2788,
+  "rank": 4
+ },
+ "bolkhov": {
+  "ko": "볼호프",
+  "en": "Bolkhov",
+  "lon": 36.0055,
+  "lat": 53.443,
+  "rank": 4
+ },
+ "kozelsk": {
+  "ko": "코젤스크",
+  "en": "Kozelsk",
+  "lon": 35.7709,
+  "lat": 54.0366,
+  "rank": 4
+ },
+ "sukhinichi": {
+  "ko": "수히니치",
+  "en": "Sukhinichi",
+  "lon": 35.3425,
+  "lat": 54.0999,
+  "rank": 4
+ },
+ "yukhnov": {
+  "ko": "유흐노프",
+  "en": "Yukhnov",
+  "lon": 35.2323,
+  "lat": 54.744,
+  "rank": 4
+ },
+ "medyn": {
+  "ko": "메딘",
+  "en": "Medyn",
+  "lon": 35.8586,
+  "lat": 54.9692,
+  "rank": 4
+ },
+ "gzhatsk": {
+  "ko": "그자츠크",
+  "en": "Gzhatsk",
+  "lon": 34.9968,
+  "lat": 55.5533,
+  "rank": 4
+ },
+ "sychevka": {
+  "ko": "시쳅카",
+  "en": "Sychevka",
+  "lon": 34.277,
+  "lat": 55.8296,
+  "rank": 4
+ },
+ "staritsa": {
+  "ko": "스타리차",
+  "en": "Staritsa",
+  "lon": 34.934,
+  "lat": 56.5054,
+  "rank": 4
+ },
+ "torzhok": {
+  "ko": "토르조크",
+  "en": "Torzhok",
+  "lon": 34.9622,
+  "lat": 57.0436,
+  "rank": 4
+ },
+ "ostashkov": {
+  "ko": "오스타시코프",
+  "en": "Ostashkov",
+  "lon": 33.1066,
+  "lat": 57.1469,
+  "rank": 4
+ },
+ "bely": {
+  "ko": "벨리",
+  "en": "Bely",
+  "lon": 32.9407,
+  "lat": 55.8408,
+  "rank": 4
+ },
+ "toropets": {
+  "ko": "토로페츠",
+  "en": "Toropets",
+  "lon": 31.6392,
+  "lat": 56.4995,
+  "rank": 4
+ },
+ "velikieluki": {
+  "ko": "벨리키예루키",
+  "en": "Velikiye Luki",
+  "lon": 30.5438,
+  "lat": 56.3406,
+  "rank": 3
+ },
+ "kholm": {
+  "ko": "홀름",
+  "en": "Kholm",
+  "lon": 31.1817,
+  "lat": 57.1489,
+  "rank": 4
+ },
+ "demyansk": {
+  "ko": "데미얀스크",
+  "en": "Demyansk",
+  "lon": 32.47,
+  "lat": 57.64,
+  "rank": 4
+ },
+ "staraya_russa": {
+  "ko": "스타라야루사",
+  "en": "Staraya Russa",
+  "lon": 31.36,
+  "lat": 57.9962,
+  "rank": 4
+ },
+ "tikhvin": {
+  "ko": "티흐빈",
+  "en": "Tikhvin",
+  "lon": 33.5256,
+  "lat": 59.6392,
+  "rank": 4
+ },
+ "volkhov": {
+  "ko": "볼호프(시)",
+  "en": "Volkhov",
+  "lon": 32.3397,
+  "lat": 59.9233,
+  "rank": 4
+ },
+ "kirishi": {
+  "ko": "키리시",
+  "en": "Kirishi",
+  "lon": 32.0401,
+  "lat": 59.4742,
+  "rank": 4
+ },
+ "chudovo": {
+  "ko": "추도보",
+  "en": "Chudovo",
+  "lon": 31.6812,
+  "lat": 59.1223,
+  "rank": 4
+ },
+ "mga": {
+  "ko": "음가",
+  "en": "Mga",
+  "lon": 31.07,
+  "lat": 59.75,
+  "rank": 4
+ },
+ "shlisselburg": {
+  "ko": "실리셀부르크",
+  "en": "Schlüsselburg",
+  "lon": 31.0385,
+  "lat": 59.9473,
+  "rank": 4
+ },
+ "lyuban": {
+  "ko": "류반",
+  "en": "Lyuban",
+  "lon": 31.2167,
+  "lat": 59.35,
+  "rank": 4
+ },
+ "tosno": {
+  "ko": "토스노",
+  "en": "Tosno",
+  "lon": 30.8775,
+  "lat": 59.54,
+  "rank": 4
+ },
+ "pushkin": {
+  "ko": "푸시킨",
+  "en": "Pushkin",
+  "lon": 30.3964,
+  "lat": 59.7142,
+  "rank": 4
+ },
+ "gatchina": {
+  "ko": "크라스노그바르데이스크",
+  "en": "Krasnogvardeisk",
+  "lon": 30.1283,
+  "lat": 59.5764,
+  "rank": 4
+ },
+ "kingisepp": {
+  "ko": "킹기세프",
+  "en": "Kingisepp",
+  "lon": 28.6141,
+  "lat": 59.3763,
+  "rank": 4
+ },
+ "oranienbaum": {
+  "ko": "오라니엔바움",
+  "en": "Oranienbaum",
+  "lon": 29.7725,
+  "lat": 59.9061,
+  "rank": 4
+ },
+ "narva": {
+  "ko": "나르바",
+  "en": "Narva",
+  "lon": 28.1903,
+  "lat": 59.3772,
+  "rank": 3
+ },
+ "luga": {
+  "ko": "루가",
+  "en": "Luga",
+  "lon": 29.8476,
+  "lat": 58.7388,
+  "rank": 4
+ },
+ "ostrov": {
+  "ko": "오스트로프",
+  "en": "Ostrov",
+  "lon": 28.3536,
+  "lat": 57.3438,
+  "rank": 4
+ },
+ "nevel": {
+  "ko": "네벨",
+  "en": "Nevel",
+  "lon": 29.9282,
+  "lat": 56.02,
+  "rank": 4
+ },
+ "velizh": {
+  "ko": "벨리시",
+  "en": "Velizh",
+  "lon": 31.1986,
+  "lat": 55.6045,
+  "rank": 4
+ },
+ "yartsevo": {
+  "ko": "야르체보",
+  "en": "Yartsevo",
+  "lon": 32.6969,
+  "lat": 55.0649,
+  "rank": 4
+ },
+ "yelnya": {
+  "ko": "옐냐",
+  "en": "Yelnya",
+  "lon": 33.1847,
+  "lat": 54.5774,
+  "rank": 4
+ },
+ "roslavl": {
+  "ko": "로슬라블",
+  "en": "Roslavl",
+  "lon": 32.8641,
+  "lat": 53.9539,
+  "rank": 4
+ },
+ "kirov_k": {
+  "ko": "키로프",
+  "en": "Kirov",
+  "lon": 34.2989,
+  "lat": 54.0689,
+  "rank": 4
+ },
+ "zhizdra": {
+  "ko": "지즈드라",
+  "en": "Zhizdra",
+  "lon": 34.7395,
+  "lat": 53.746,
+  "rank": 4
+ },
+ "karachev": {
+  "ko": "카라체프",
+  "en": "Karachev",
+  "lon": 34.9849,
+  "lat": 53.1225,
+  "rank": 4
+ },
+ "trubchevsk": {
+  "ko": "트루브쳅스크",
+  "en": "Trubchevsk",
+  "lon": 33.7657,
+  "lat": 52.5803,
+  "rank": 4
+ },
+ "klintsy": {
+  "ko": "클린치",
+  "en": "Klintsy",
+  "lon": 32.239,
+  "lat": 52.7603,
+  "rank": 4
+ },
+ "orsha": {
+  "ko": "오르샤",
+  "en": "Orsha",
+  "lon": 30.4036,
+  "lat": 54.5136,
+  "rank": 3
+ },
+ "borisov": {
+  "ko": "보리소프",
+  "en": "Borisov",
+  "lon": 28.505,
+  "lat": 54.2279,
+  "rank": 4
+ },
+ "molodechno": {
+  "ko": "몰로데치노",
+  "en": "Molodechno",
+  "lon": 26.854,
+  "lat": 54.3167,
+  "rank": 4
+ },
+ "lida": {
+  "ko": "리다",
+  "en": "Lida",
+  "lon": 25.2997,
+  "lat": 53.8833,
+  "rank": 4
+ },
+ "baranovichi": {
+  "ko": "바라노비치",
+  "en": "Baranovichi",
+  "lon": 26.0078,
+  "lat": 53.1326,
+  "rank": 4
+ },
+ "slutsk": {
+  "ko": "슬루츠크",
+  "en": "Slutsk",
+  "lon": 27.5416,
+  "lat": 53.0152,
+  "rank": 4
+ },
+ "pinsk": {
+  "ko": "핀스크",
+  "en": "Pinsk",
+  "lon": 26.0673,
+  "lat": 52.1215,
+  "rank": 4
+ },
+ "kovel": {
+  "ko": "코벨",
+  "en": "Kovel",
+  "lon": 24.7008,
+  "lat": 51.2155,
+  "rank": 4
+ },
+ "lutsk": {
+  "ko": "루츠크",
+  "en": "Lutsk",
+  "lon": 25.3502,
+  "lat": 50.7578,
+  "rank": 4
+ },
+ "brody": {
+  "ko": "브로디",
+  "en": "Brody",
+  "lon": 25.1461,
+  "lat": 50.0885,
+  "rank": 4
+ },
+ "tarnopol": {
+  "ko": "타르노폴",
+  "en": "Tarnopol",
+  "lon": 25.5907,
+  "lat": 49.554,
+  "rank": 4
+ },
+ "stanislav": {
+  "ko": "스타니스와부프",
+  "en": "Stanislau",
+  "lon": 24.7125,
+  "lat": 48.9231,
+  "rank": 4
+ },
+ "dubno": {
+  "ko": "두브노",
+  "en": "Dubno",
+  "lon": 25.7624,
+  "lat": 50.4075,
+  "rank": 4
+ },
+ "berdichev": {
+  "ko": "베르디체프",
+  "en": "Berdichev",
+  "lon": 28.5824,
+  "lat": 49.8942,
+  "rank": 4
+ },
+ "kamenets": {
+  "ko": "카메네츠포돌스키",
+  "en": "Kamenets-Podolsky",
+  "lon": 26.5852,
+  "lat": 48.6788,
+  "rank": 4
+ },
+ "proskurov": {
+  "ko": "프로스쿠로프",
+  "en": "Proskurov",
+  "lon": 26.9794,
+  "lat": 49.4183,
+  "rank": 4
+ },
+ "zhlobin": {
+  "ko": "즐로빈",
+  "en": "Zhlobin",
+  "lon": 30.024,
+  "lat": 52.8926,
+  "rank": 4
+ },
+ "rogachev": {
+  "ko": "로가초프",
+  "en": "Rogachev",
+  "lon": 30.0486,
+  "lat": 53.0926,
+  "rank": 4
+ },
+ "mozyr": {
+  "ko": "모지르",
+  "en": "Mozyr",
+  "lon": 29.2163,
+  "lat": 52.0416,
+  "rank": 4
+ },
+ "bykhov": {
+  "ko": "비호프",
+  "en": "Bykhov",
+  "lon": 30.2308,
+  "lat": 53.5213,
+  "rank": 4
+ },
+ "lepel": {
+  "ko": "레펠",
+  "en": "Lepel",
+  "lon": 28.699,
+  "lat": 54.8814,
+  "rank": 4
+ },
+ "siauliai": {
+  "ko": "샤울레이",
+  "en": "Šiauliai",
+  "lon": 23.3167,
+  "lat": 55.9333,
+  "rank": 3
+ },
+ "daugavpils": {
+  "ko": "다우가프필스",
+  "en": "Dünaburg",
+  "lon": 26.5333,
+  "lat": 55.8833,
+  "rank": 3
+ },
+ "jelgava": {
+  "ko": "옐가바",
+  "en": "Mitau",
+  "lon": 23.7128,
+  "lat": 56.65,
+  "rank": 4
+ },
+ "liepaja": {
+  "ko": "리에파야",
+  "en": "Libau",
+  "lon": 21.0109,
+  "lat": 56.5047,
+  "rank": 4
+ },
+ "memel": {
+  "ko": "메멜",
+  "en": "Memel",
+  "lon": 21.1391,
+  "lat": 55.7068,
+  "rank": 3
+ },
+ "tartu": {
+  "ko": "타르투",
+  "en": "Dorpat",
+  "lon": 26.7251,
+  "lat": 58.3806,
+  "rank": 4
+ },
+ "konigsberg": {
+  "ko": "쾨니히스베르크",
+  "en": "Königsberg",
+  "lon": 20.511,
+  "lat": 54.7064,
+  "rank": 2
+ },
+ "danzig": {
+  "ko": "단치히",
+  "en": "Danzig",
+  "lon": 18.6491,
+  "lat": 54.3523,
+  "rank": 2
+ },
+ "gdynia": {
+  "ko": "그디니아",
+  "en": "Gdingen",
+  "lon": 18.5319,
+  "lat": 54.5189,
+  "rank": 4
+ },
+ "stettin": {
+  "ko": "슈테틴",
+  "en": "Stettin",
+  "lon": 14.553,
+  "lat": 53.4289,
+  "rank": 2
+ },
+ "breslau": {
+  "ko": "브레슬라우",
+  "en": "Breslau",
+  "lon": 17.0301,
+  "lat": 51.1029,
+  "rank": 2
+ },
+ "krakow": {
+  "ko": "크라쿠프",
+  "en": "Kraków",
+  "lon": 19.9366,
+  "lat": 50.0614,
+  "rank": 2
+ },
+ "lodz": {
+  "ko": "우치",
+  "en": "Łódź",
+  "lon": 19.4739,
+  "lat": 51.7706,
+  "rank": 2
+ },
+ "posen": {
+  "ko": "포즈난",
+  "en": "Posen",
+  "lon": 16.9299,
+  "lat": 52.4069,
+  "rank": 2
+ },
+ "lublin": {
+  "ko": "루블린",
+  "en": "Lublin",
+  "lon": 22.5701,
+  "lat": 51.2506,
+  "rank": 3
+ },
+ "radom": {
+  "ko": "라돔",
+  "en": "Radom",
+  "lon": 21.1471,
+  "lat": 51.4025,
+  "rank": 4
+ },
+ "kielce": {
+  "ko": "키엘체",
+  "en": "Kielce",
+  "lon": 20.6275,
+  "lat": 50.8703,
+  "rank": 4
+ },
+ "czestochowa": {
+  "ko": "쳉스토호바",
+  "en": "Tschenstochau",
+  "lon": 19.1241,
+  "lat": 50.7965,
+  "rank": 4
+ },
+ "katowice": {
+  "ko": "카토비체",
+  "en": "Kattowitz",
+  "lon": 19.0217,
+  "lat": 50.2597,
+  "rank": 3
+ },
+ "sandomierz": {
+  "ko": "산도미에시",
+  "en": "Sandomierz",
+  "lon": 21.749,
+  "lat": 50.6827,
+  "rank": 4
+ },
+ "bialystok": {
+  "ko": "비아위스토크",
+  "en": "Białystok",
+  "lon": 23.1643,
+  "lat": 53.1333,
+  "rank": 3
+ },
+ "lomza": {
+  "ko": "워므자",
+  "en": "Łomża",
+  "lon": 22.0593,
+  "lat": 53.1781,
+  "rank": 4
+ },
+ "ostroleka": {
+  "ko": "오스트로웽카",
+  "en": "Ostrołęka",
+  "lon": 21.5757,
+  "lat": 53.0862,
+  "rank": 4
+ },
+ "mlawa": {
+  "ko": "므와바",
+  "en": "Mława",
+  "lon": 20.3841,
+  "lat": 53.1128,
+  "rank": 4
+ },
+ "plock": {
+  "ko": "프워츠크",
+  "en": "Płock",
+  "lon": 19.7064,
+  "lat": 52.5468,
+  "rank": 4
+ },
+ "modlin": {
+  "ko": "모들린",
+  "en": "Modlin",
+  "lon": 20.7165,
+  "lat": 52.4302,
+  "rank": 4
+ },
+ "kutno": {
+  "ko": "쿠트노",
+  "en": "Kutno",
+  "lon": 19.3641,
+  "lat": 52.2306,
+  "rank": 4
+ },
+ "bydgoszcz": {
+  "ko": "브롬베르크",
+  "en": "Bromberg",
+  "lon": 18.0076,
+  "lat": 53.1235,
+  "rank": 3
+ },
+ "torun": {
+  "ko": "토룬",
+  "en": "Thorn",
+  "lon": 18.5981,
+  "lat": 53.0138,
+  "rank": 4
+ },
+ "przemysl": {
+  "ko": "프셰미실",
+  "en": "Przemyśl",
+  "lon": 22.7673,
+  "lat": 49.785,
+  "rank": 4
+ },
+ "tilsit": {
+  "ko": "틸지트",
+  "en": "Tilsit",
+  "lon": 21.8785,
+  "lat": 55.0839,
+  "rank": 4
+ },
+ "gumbinnen": {
+  "ko": "굼비넨",
+  "en": "Gumbinnen",
+  "lon": 22.1997,
+  "lat": 54.5922,
+  "rank": 4
+ },
+ "allenstein": {
+  "ko": "알렌슈타인",
+  "en": "Allenstein",
+  "lon": 20.4927,
+  "lat": 53.7838,
+  "rank": 4
+ },
+ "elbing": {
+  "ko": "엘빙",
+  "en": "Elbing",
+  "lon": 19.4088,
+  "lat": 54.1522,
+  "rank": 4
+ },
+ "kustrin": {
+  "ko": "퀴스트린",
+  "en": "Küstrin",
+  "lon": 14.6495,
+  "lat": 52.5871,
+  "rank": 4
+ },
+ "frankfurt_oder": {
+  "ko": "프랑크푸르트(오데르)",
+  "en": "Frankfurt (Oder)",
+  "lon": 14.5506,
+  "lat": 52.3471,
+  "rank": 4
+ },
+ "seelow": {
+  "ko": "젤로",
+  "en": "Seelow",
+  "lon": 14.3813,
+  "lat": 52.5339,
+  "rank": 4
+ },
+ "halbe": {
+  "ko": "할베",
+  "en": "Halbe",
+  "lon": 13.7,
+  "lat": 52.11,
+  "rank": 4
+ },
+ "cottbus": {
+  "ko": "코트부스",
+  "en": "Cottbus",
+  "lon": 14.3289,
+  "lat": 51.7577,
+  "rank": 4
+ },
+ "potsdam": {
+  "ko": "포츠담",
+  "en": "Potsdam",
+  "lon": 13.0657,
+  "lat": 52.3989,
+  "rank": 4
+ },
+ "torgau": {
+  "ko": "토르가우",
+  "en": "Torgau",
+  "lon": 12.9962,
+  "lat": 51.5602,
+  "rank": 4
+ },
+ "hamburg": {
+  "ko": "함부르크",
+  "en": "Hamburg",
+  "lon": 9.993,
+  "lat": 53.5507,
+  "rank": 2
+ },
+ "munich": {
+  "ko": "뮌헨",
+  "en": "Munich",
+  "lon": 11.5755,
+  "lat": 48.1374,
+  "rank": 2
+ },
+ "cologne": {
+  "ko": "쾰른",
+  "en": "Cologne",
+  "lon": 6.95,
+  "lat": 50.9333,
+  "rank": 2
+ },
+ "dresden": {
+  "ko": "드레스덴",
+  "en": "Dresden",
+  "lon": 13.7383,
+  "lat": 51.0509,
+  "rank": 2
+ },
+ "leipzig": {
+  "ko": "라이프치히",
+  "en": "Leipzig",
+  "lon": 12.3713,
+  "lat": 51.3396,
+  "rank": 3
+ },
+ "nuremberg": {
+  "ko": "뉘른베르크",
+  "en": "Nuremberg",
+  "lon": 11.0775,
+  "lat": 49.4542,
+  "rank": 3
+ },
+ "frankfurt": {
+  "ko": "프랑크푸르트",
+  "en": "Frankfurt",
+  "lon": 8.6842,
+  "lat": 50.1155,
+  "rank": 3
+ },
+ "stuttgart": {
+  "ko": "슈투트가르트",
+  "en": "Stuttgart",
+  "lon": 9.177,
+  "lat": 48.7823,
+  "rank": 3
+ },
+ "bremen": {
+  "ko": "브레멘",
+  "en": "Bremen",
+  "lon": 8.8072,
+  "lat": 53.0758,
+  "rank": 3
+ },
+ "hannover": {
+  "ko": "하노버",
+  "en": "Hannover",
+  "lon": 9.7332,
+  "lat": 52.3705,
+  "rank": 3
+ },
+ "magdeburg": {
+  "ko": "마그데부르크",
+  "en": "Magdeburg",
+  "lon": 11.6319,
+  "lat": 52.1313,
+  "rank": 3
+ },
+ "aachen": {
+  "ko": "아헨",
+  "en": "Aachen",
+  "lon": 6.0834,
+  "lat": 50.7766,
+  "rank": 3
+ },
+ "essen": {
+  "ko": "에센",
+  "en": "Essen",
+  "lon": 7.0123,
+  "lat": 51.4566,
+  "rank": 4
+ },
+ "dusseldorf": {
+  "ko": "뒤셀도르프",
+  "en": "Düsseldorf",
+  "lon": 6.7793,
+  "lat": 51.2232,
+  "rank": 4
+ },
+ "kassel": {
+  "ko": "카셀",
+  "en": "Kassel",
+  "lon": 9.5,
+  "lat": 51.3167,
+  "rank": 4
+ },
+ "kiel": {
+  "ko": "킬",
+  "en": "Kiel",
+  "lon": 10.1349,
+  "lat": 54.3213,
+  "rank": 3
+ },
+ "lubeck": {
+  "ko": "뤼베크",
+  "en": "Lübeck",
+  "lon": 10.6873,
+  "lat": 53.8689,
+  "rank": 4
+ },
+ "rostock": {
+  "ko": "로스토크",
+  "en": "Rostock",
+  "lon": 12.1405,
+  "lat": 54.0887,
+  "rank": 4
+ },
+ "remagen": {
+  "ko": "레마겐",
+  "en": "Remagen",
+  "lon": 7.227,
+  "lat": 50.5788,
+  "rank": 4
+ },
+ "wesel": {
+  "ko": "베젤",
+  "en": "Wesel",
+  "lon": 6.6204,
+  "lat": 51.6669,
+  "rank": 4
+ },
+ "linz": {
+  "ko": "린츠",
+  "en": "Linz",
+  "lon": 14.2861,
+  "lat": 48.3064,
+  "rank": 3
+ },
+ "salzburg": {
+  "ko": "잘츠부르크",
+  "en": "Salzburg",
+  "lon": 13.044,
+  "lat": 47.7994,
+  "rank": 4
+ },
+ "graz": {
+  "ko": "그라츠",
+  "en": "Graz",
+  "lon": 15.442,
+  "lat": 47.0673,
+  "rank": 3
+ },
+ "innsbruck": {
+  "ko": "인스브루크",
+  "en": "Innsbruck",
+  "lon": 11.3945,
+  "lat": 47.2627,
+  "rank": 4
+ },
+ "brno": {
+  "ko": "브르노",
+  "en": "Brünn",
+  "lon": 16.608,
+  "lat": 49.1952,
+  "rank": 3
+ },
+ "ostrava": {
+  "ko": "오스트라바",
+  "en": "Mährisch Ostrau",
+  "lon": 18.282,
+  "lat": 49.8347,
+  "rank": 4
+ },
+ "pilsen": {
+  "ko": "플젠",
+  "en": "Pilsen",
+  "lon": 13.3776,
+  "lat": 49.7475,
+  "rank": 4
+ },
+ "kosice": {
+  "ko": "코시체",
+  "en": "Kassa",
+  "lon": 21.258,
+  "lat": 48.7144,
+  "rank": 4
+ },
+ "uzhgorod": {
+  "ko": "웅바르",
+  "en": "Ungvár",
+  "lon": 22.2947,
+  "lat": 48.6242,
+  "rank": 4
+ },
+ "rotterdam": {
+  "ko": "로테르담",
+  "en": "Rotterdam",
+  "lon": 4.4792,
+  "lat": 51.9225,
+  "rank": 3
+ },
+ "hague": {
+  "ko": "헤이그",
+  "en": "The Hague",
+  "lon": 4.2986,
+  "lat": 52.0767,
+  "rank": 3
+ },
+ "arnhem": {
+  "ko": "아른험",
+  "en": "Arnhem",
+  "lon": 5.9111,
+  "lat": 51.98,
+  "rank": 4
+ },
+ "nijmegen": {
+  "ko": "네이메헌",
+  "en": "Nijmegen",
+  "lon": 5.8528,
+  "lat": 51.8425,
+  "rank": 4
+ },
+ "eindhoven": {
+  "ko": "에인트호번",
+  "en": "Eindhoven",
+  "lon": 5.4778,
+  "lat": 51.4408,
+  "rank": 4
+ },
+ "maastricht": {
+  "ko": "마스트리흐트",
+  "en": "Maastricht",
+  "lon": 5.6889,
+  "lat": 50.8483,
+  "rank": 4
+ },
+ "antwerp": {
+  "ko": "안트베르펜",
+  "en": "Antwerp",
+  "lon": 4.4003,
+  "lat": 51.2205,
+  "rank": 3
+ },
+ "liege": {
+  "ko": "리에주",
+  "en": "Liège",
+  "lon": 5.5675,
+  "lat": 50.6337,
+  "rank": 3
+ },
+ "namur": {
+  "ko": "나뮈르",
+  "en": "Namur",
+  "lon": 4.8675,
+  "lat": 50.4669,
+  "rank": 4
+ },
+ "dinant": {
+  "ko": "디낭",
+  "en": "Dinant",
+  "lon": 4.9117,
+  "lat": 50.2581,
+  "rank": 4
+ },
+ "bastogne": {
+  "ko": "바스토뉴",
+  "en": "Bastogne",
+  "lon": 5.7184,
+  "lat": 50.0035,
+  "rank": 4
+ },
+ "stvith": {
+  "ko": "생비트",
+  "en": "St. Vith",
+  "lon": 6.1272,
+  "lat": 50.2815,
+  "rank": 4
+ },
+ "malmedy": {
+  "ko": "말메디",
+  "en": "Malmedy",
+  "lon": 6.0279,
+  "lat": 50.4269,
+  "rank": 4
+ },
+ "houffalize": {
+  "ko": "우팔리즈",
+  "en": "Houffalize",
+  "lon": 5.7896,
+  "lat": 50.1324,
+  "rank": 4
+ },
+ "gembloux": {
+  "ko": "장블루",
+  "en": "Gembloux",
+  "lon": 4.6989,
+  "lat": 50.5615,
+  "rank": 4
+ },
+ "ostend": {
+  "ko": "오스텐더",
+  "en": "Ostend",
+  "lon": 2.927,
+  "lat": 51.2155,
+  "rank": 4
+ },
+ "dunkirk": {
+  "ko": "됭케르크",
+  "en": "Dunkirk",
+  "lon": 2.3768,
+  "lat": 51.0344,
+  "rank": 3
+ },
+ "calais": {
+  "ko": "칼레",
+  "en": "Calais",
+  "lon": 1.8563,
+  "lat": 50.9519,
+  "rank": 3
+ },
+ "boulogne": {
+  "ko": "불로뉴",
+  "en": "Boulogne",
+  "lon": 1.6137,
+  "lat": 50.7249,
+  "rank": 4
+ },
+ "abbeville": {
+  "ko": "아브빌",
+  "en": "Abbeville",
+  "lon": 1.8355,
+  "lat": 50.1052,
+  "rank": 4
+ },
+ "amiens": {
+  "ko": "아미앵",
+  "en": "Amiens",
+  "lon": 2.3,
+  "lat": 49.9,
+  "rank": 4
+ },
+ "arras": {
+  "ko": "아라스",
+  "en": "Arras",
+  "lon": 2.7819,
+  "lat": 50.293,
+  "rank": 4
+ },
+ "lille": {
+  "ko": "릴",
+  "en": "Lille",
+  "lon": 3.0551,
+  "lat": 50.6339,
+  "rank": 3
+ },
+ "sedan": {
+  "ko": "스당",
+  "en": "Sedan",
+  "lon": 4.9403,
+  "lat": 49.7019,
+  "rank": 3
+ },
+ "reims": {
+  "ko": "랭스",
+  "en": "Reims",
+  "lon": 4.0285,
+  "lat": 49.2653,
+  "rank": 4
+ },
+ "verdun": {
+  "ko": "베르됭",
+  "en": "Verdun",
+  "lon": 5.3829,
+  "lat": 49.1596,
+  "rank": 4
+ },
+ "metz": {
+  "ko": "메스",
+  "en": "Metz",
+  "lon": 6.1727,
+  "lat": 49.1191,
+  "rank": 3
+ },
+ "nancy": {
+  "ko": "낭시",
+  "en": "Nancy",
+  "lon": 6.185,
+  "lat": 48.6844,
+  "rank": 4
+ },
+ "strasbourg": {
+  "ko": "스트라스부르",
+  "en": "Strasbourg",
+  "lon": 7.7455,
+  "lat": 48.5839,
+  "rank": 3
+ },
+ "colmar": {
+  "ko": "콜마르",
+  "en": "Colmar",
+  "lon": 7.3558,
+  "lat": 48.0808,
+  "rank": 4
+ },
+ "mulhouse": {
+  "ko": "뮐루즈",
+  "en": "Mulhouse",
+  "lon": 7.3287,
+  "lat": 47.752,
+  "rank": 4
+ },
+ "belfort": {
+  "ko": "벨포르",
+  "en": "Belfort",
+  "lon": 6.8539,
+  "lat": 47.6422,
+  "rank": 4
+ },
+ "dijon": {
+  "ko": "디종",
+  "en": "Dijon",
+  "lon": 5.0139,
+  "lat": 47.3134,
+  "rank": 4
+ },
+ "lyon": {
+  "ko": "리옹",
+  "en": "Lyon",
+  "lon": 4.8479,
+  "lat": 45.7491,
+  "rank": 2
+ },
+ "marseille": {
+  "ko": "마르세유",
+  "en": "Marseille",
+  "lon": 5.3811,
+  "lat": 43.297,
+  "rank": 2
+ },
+ "toulon": {
+  "ko": "툴롱",
+  "en": "Toulon",
+  "lon": 5.9284,
+  "lat": 43.1244,
+  "rank": 3
+ },
+ "nice": {
+  "ko": "니스",
+  "en": "Nice",
+  "lon": 7.2661,
+  "lat": 43.7031,
+  "rank": 4
+ },
+ "bordeaux": {
+  "ko": "보르도",
+  "en": "Bordeaux",
+  "lon": -0.5805,
+  "lat": 44.8412,
+  "rank": 2
+ },
+ "nantes": {
+  "ko": "낭트",
+  "en": "Nantes",
+  "lon": -1.5534,
+  "lat": 47.2172,
+  "rank": 3
+ },
+ "brest_fr": {
+  "ko": "브레스트",
+  "en": "Brest",
+  "lon": -4.4863,
+  "lat": 48.3903,
+  "rank": 3
+ },
+ "lorient": {
+  "ko": "로리앙",
+  "en": "Lorient",
+  "lon": -3.3718,
+  "lat": 47.7482,
+  "rank": 4
+ },
+ "stnazaire": {
+  "ko": "생나제르",
+  "en": "St-Nazaire",
+  "lon": -2.2179,
+  "lat": 47.2751,
+  "rank": 4
+ },
+ "cherbourg": {
+  "ko": "셰르부르",
+  "en": "Cherbourg",
+  "lon": -1.62,
+  "lat": 49.64,
+  "rank": 3
+ },
+ "caen": {
+  "ko": "캉",
+  "en": "Caen",
+  "lon": -0.3591,
+  "lat": 49.1859,
+  "rank": 3
+ },
+ "lehavre": {
+  "ko": "르아브르",
+  "en": "Le Havre",
+  "lon": 0.1079,
+  "lat": 49.4935,
+  "rank": 3
+ },
+ "rouen": {
+  "ko": "루앙",
+  "en": "Rouen",
+  "lon": 1.0993,
+  "lat": 49.4431,
+  "rank": 3
+ },
+ "stlo": {
+  "ko": "생로",
+  "en": "St-Lô",
+  "lon": -1.0903,
+  "lat": 49.1162,
+  "rank": 4
+ },
+ "bayeux": {
+  "ko": "바이외",
+  "en": "Bayeux",
+  "lon": -0.7039,
+  "lat": 49.2773,
+  "rank": 4
+ },
+ "carentan": {
+  "ko": "카랑탕",
+  "en": "Carentan",
+  "lon": -1.25,
+  "lat": 49.3,
+  "rank": 4
+ },
+ "stmereeglise": {
+  "ko": "생메르에글리즈",
+  "en": "Ste-Mère-Église",
+  "lon": -1.32,
+  "lat": 49.41,
+  "rank": 4
+ },
+ "falaise": {
+  "ko": "팔레즈",
+  "en": "Falaise",
+  "lon": -0.1953,
+  "lat": 48.8922,
+  "rank": 4
+ },
+ "avranches": {
+  "ko": "아브랑슈",
+  "en": "Avranches",
+  "lon": -1.3569,
+  "lat": 48.6844,
+  "rank": 4
+ },
+ "rennes": {
+  "ko": "렌",
+  "en": "Rennes",
+  "lon": -1.6743,
+  "lat": 48.1111,
+  "rank": 3
+ },
+ "lemans": {
+  "ko": "르망",
+  "en": "Le Mans",
+  "lon": 0.2025,
+  "lat": 48.0021,
+  "rank": 4
+ },
+ "orleans": {
+  "ko": "오를레앙",
+  "en": "Orléans",
+  "lon": 1.9041,
+  "lat": 47.9025,
+  "rank": 4
+ },
+ "tours": {
+  "ko": "투르",
+  "en": "Tours",
+  "lon": 0.704,
+  "lat": 47.3948,
+  "rank": 4
+ },
+ "limoges": {
+  "ko": "리모주",
+  "en": "Limoges",
+  "lon": 1.2476,
+  "lat": 45.8336,
+  "rank": 4
+ },
+ "toulouse": {
+  "ko": "툴루즈",
+  "en": "Toulouse",
+  "lon": 1.4437,
+  "lat": 43.6043,
+  "rank": 3
+ },
+ "grenoble": {
+  "ko": "그르노블",
+  "en": "Grenoble",
+  "lon": 5.7148,
+  "lat": 45.1787,
+  "rank": 4
+ },
+ "compiegne": {
+  "ko": "콩피에뉴",
+  "en": "Compiègne",
+  "lon": 2.8261,
+  "lat": 49.4179,
+  "rank": 4
+ },
+ "larochelle": {
+  "ko": "라로셸",
+  "en": "La Rochelle",
+  "lon": -1.1522,
+  "lat": 46.1631,
+  "rank": 4
+ },
+ "milan": {
+  "ko": "밀라노",
+  "en": "Milan",
+  "lon": 9.1895,
+  "lat": 45.4643,
+  "rank": 2
+ },
+ "turin": {
+  "ko": "토리노",
+  "en": "Turin",
+  "lon": 7.6868,
+  "lat": 45.0705,
+  "rank": 2
+ },
+ "genoa": {
+  "ko": "제노바",
+  "en": "Genoa",
+  "lon": 8.9444,
+  "lat": 44.4048,
+  "rank": 3
+ },
+ "bologna": {
+  "ko": "볼로냐",
+  "en": "Bologna",
+  "lon": 11.3387,
+  "lat": 44.4938,
+  "rank": 3
+ },
+ "florence": {
+  "ko": "피렌체",
+  "en": "Florence",
+  "lon": 11.2463,
+  "lat": 43.7792,
+  "rank": 3
+ },
+ "naples": {
+  "ko": "나폴리",
+  "en": "Naples",
+  "lon": 14.2681,
+  "lat": 40.8522,
+  "rank": 2
+ },
+ "palermo": {
+  "ko": "팔레르모",
+  "en": "Palermo",
+  "lon": 13.3636,
+  "lat": 38.1166,
+  "rank": 3
+ },
+ "messina": {
+  "ko": "메시나",
+  "en": "Messina",
+  "lon": 15.5526,
+  "lat": 38.1939,
+  "rank": 3
+ },
+ "bari": {
+  "ko": "바리",
+  "en": "Bari",
+  "lon": 16.8698,
+  "lat": 41.1207,
+  "rank": 3
+ },
+ "taranto": {
+  "ko": "타란토",
+  "en": "Taranto",
+  "lon": 17.2471,
+  "lat": 40.4644,
+  "rank": 4
+ },
+ "salerno": {
+  "ko": "살레르노",
+  "en": "Salerno",
+  "lon": 14.7933,
+  "lat": 40.6754,
+  "rank": 4
+ },
+ "anzio": {
+  "ko": "안치오",
+  "en": "Anzio",
+  "lon": 12.6216,
+  "lat": 41.4526,
+  "rank": 4
+ },
+ "cassino": {
+  "ko": "카시노",
+  "en": "Cassino",
+  "lon": 13.8284,
+  "lat": 41.4858,
+  "rank": 4
+ },
+ "venice": {
+  "ko": "베네치아",
+  "en": "Venice",
+  "lon": 12.3326,
+  "lat": 45.4371,
+  "rank": 3
+ },
+ "trieste": {
+  "ko": "트리에스테",
+  "en": "Trieste",
+  "lon": 13.7768,
+  "lat": 45.6495,
+  "rank": 3
+ },
+ "pisa": {
+  "ko": "피사",
+  "en": "Pisa",
+  "lon": 10.4036,
+  "lat": 43.7085,
+  "rank": 4
+ },
+ "rimini": {
+  "ko": "리미니",
+  "en": "Rimini",
+  "lon": 12.5653,
+  "lat": 44.0575,
+  "rank": 4
+ },
+ "ancona": {
+  "ko": "안코나",
+  "en": "Ancona",
+  "lon": 13.5103,
+  "lat": 43.6072,
+  "rank": 4
+ },
+ "pescara": {
+  "ko": "페스카라",
+  "en": "Pescara",
+  "lon": 14.2028,
+  "lat": 42.4584,
+  "rank": 4
+ },
+ "ortona": {
+  "ko": "오르토나",
+  "en": "Ortona",
+  "lon": 14.4034,
+  "lat": 42.3509,
+  "rank": 4
+ },
+ "syracuse": {
+  "ko": "시라쿠사",
+  "en": "Syracuse",
+  "lon": 15.2866,
+  "lat": 37.0754,
+  "rank": 4
+ },
+ "catania": {
+  "ko": "카타니아",
+  "en": "Catania",
+  "lon": 15.0704,
+  "lat": 37.4922,
+  "rank": 4
+ },
+ "gela": {
+  "ko": "젤라",
+  "en": "Gela",
+  "lon": 14.2404,
+  "lat": 37.0738,
+  "rank": 4
+ },
+ "cagliari": {
+  "ko": "칼리아리",
+  "en": "Cagliari",
+  "lon": 9.1192,
+  "lat": 39.2305,
+  "rank": 4
+ },
+ "ajaccio": {
+  "ko": "아작시오",
+  "en": "Ajaccio",
+  "lon": 8.7381,
+  "lat": 41.9189,
+  "rank": 4
+ },
+ "verona": {
+  "ko": "베로나",
+  "en": "Verona",
+  "lon": 10.9938,
+  "lat": 45.4385,
+  "rank": 4
+ },
+ "bolzano": {
+  "ko": "볼차노",
+  "en": "Bolzano",
+  "lon": 11.3398,
+  "lat": 46.4907,
+  "rank": 4
+ },
+ "fiume": {
+  "ko": "피우메",
+  "en": "Fiume",
+  "lon": 14.4424,
+  "lat": 45.3267,
+  "rank": 4
+ },
+ "zara": {
+  "ko": "차라",
+  "en": "Zara",
+  "lon": 15.2251,
+  "lat": 44.1158,
+  "rank": 4
+ },
+ "split": {
+  "ko": "스플리트",
+  "en": "Split",
+  "lon": 16.4392,
+  "lat": 43.5089,
+  "rank": 4
+ },
+ "valletta": {
+  "ko": "발레타",
+  "en": "Valletta",
+  "lon": 14.5148,
+  "lat": 35.8997,
+  "rank": 3
+ },
+ "gibraltar": {
+  "ko": "지브롤터",
+  "en": "Gibraltar",
+  "lon": -5.3526,
+  "lat": 36.1447,
+  "rank": 3
+ },
+ "nicosia": {
+  "ko": "니코시아",
+  "en": "Nicosia",
+  "lon": 33.354,
+  "lat": 35.1728,
+  "rank": 4
+ },
+ "sarajevo": {
+  "ko": "사라예보",
+  "en": "Sarajevo",
+  "lon": 18.3564,
+  "lat": 43.8486,
+  "rank": 3
+ },
+ "skopje": {
+  "ko": "스코페",
+  "en": "Skopje",
+  "lon": 21.4314,
+  "lat": 41.9965,
+  "rank": 3
+ },
+ "thessaloniki": {
+  "ko": "테살로니키",
+  "en": "Salonika",
+  "lon": 22.9349,
+  "lat": 40.6407,
+  "rank": 2
+ },
+ "heraklion": {
+  "ko": "이라클리온",
+  "en": "Heraklion",
+  "lon": 25.1434,
+  "lat": 35.3279,
+  "rank": 4
+ },
+ "chania": {
+  "ko": "하니아",
+  "en": "Chania",
+  "lon": 24.0292,
+  "lat": 35.5112,
+  "rank": 4
+ },
+ "maleme": {
+  "ko": "말레메",
+  "en": "Maleme",
+  "lon": 23.83,
+  "lat": 35.52,
+  "rank": 4
+ },
+ "patras": {
+  "ko": "파트라",
+  "en": "Patras",
+  "lon": 21.7351,
+  "lat": 38.2462,
+  "rank": 4
+ },
+ "ioannina": {
+  "ko": "요아니나",
+  "en": "Ioannina",
+  "lon": 20.8519,
+  "lat": 39.6634,
+  "rank": 4
+ },
+ "larissa": {
+  "ko": "라리사",
+  "en": "Larissa",
+  "lon": 22.4211,
+  "lat": 39.6285,
+  "rank": 4
+ },
+ "rhodes": {
+  "ko": "로도스",
+  "en": "Rhodes",
+  "lon": 28.222,
+  "lat": 36.4356,
+  "rank": 4
+ },
+ "varna": {
+  "ko": "바르나",
+  "en": "Varna",
+  "lon": 27.9102,
+  "lat": 43.2191,
+  "rank": 3
+ },
+ "plovdiv": {
+  "ko": "플로브디프",
+  "en": "Plovdiv",
+  "lon": 24.75,
+  "lat": 42.1539,
+  "rank": 4
+ },
+ "burgas": {
+  "ko": "부르가스",
+  "en": "Burgas",
+  "lon": 27.4689,
+  "lat": 42.5065,
+  "rank": 4
+ },
+ "constanta": {
+  "ko": "콘스탄차",
+  "en": "Constanța",
+  "lon": 28.6343,
+  "lat": 44.1807,
+  "rank": 3
+ },
+ "galati": {
+  "ko": "갈라치",
+  "en": "Galați",
+  "lon": 28.0503,
+  "lat": 45.4369,
+  "rank": 4
+ },
+ "ploiesti": {
+  "ko": "플로이에슈티",
+  "en": "Ploiești",
+  "lon": 26.0167,
+  "lat": 44.95,
+  "rank": 3
+ },
+ "brasov": {
+  "ko": "브라쇼브",
+  "en": "Brașov",
+  "lon": 25.6061,
+  "lat": 45.6486,
+  "rank": 4
+ },
+ "cluj": {
+  "ko": "클루지",
+  "en": "Kolozsvár",
+  "lon": 23.6,
+  "lat": 46.7667,
+  "rank": 3
+ },
+ "timisoara": {
+  "ko": "티미쇼아라",
+  "en": "Timișoara",
+  "lon": 21.2257,
+  "lat": 45.7537,
+  "rank": 4
+ },
+ "craiova": {
+  "ko": "크라이오바",
+  "en": "Craiova",
+  "lon": 23.8,
+  "lat": 44.3167,
+  "rank": 4
+ },
+ "debrecen": {
+  "ko": "데브레첸",
+  "en": "Debrecen",
+  "lon": 21.6244,
+  "lat": 47.5317,
+  "rank": 3
+ },
+ "szeged": {
+  "ko": "세게드",
+  "en": "Szeged",
+  "lon": 20.1482,
+  "lat": 46.253,
+  "rank": 4
+ },
+ "szekesfehervar": {
+  "ko": "세케슈페헤르바르",
+  "en": "Székesfehérvár",
+  "lon": 18.4103,
+  "lat": 47.19,
+  "rank": 4
+ },
+ "novisad": {
+  "ko": "노비사드",
+  "en": "Novi Sad",
+  "lon": 19.8369,
+  "lat": 45.2517,
+  "rank": 4
+ },
+ "nis": {
+  "ko": "니시",
+  "en": "Niš",
+  "lon": 21.9033,
+  "lat": 43.3247,
+  "rank": 4
+ },
+ "podgorica": {
+  "ko": "포드고리차",
+  "en": "Podgorica",
+  "lon": 19.2631,
+  "lat": 42.4412,
+  "rank": 4
+ },
+ "shkoder": {
+  "ko": "슈코더르",
+  "en": "Shkodër",
+  "lon": 19.5126,
+  "lat": 42.0683,
+  "rank": 4
+ },
+ "durres": {
+  "ko": "두러스",
+  "en": "Durrës",
+  "lon": 19.4547,
+  "lat": 41.3235,
+  "rank": 4
+ },
+ "vlore": {
+  "ko": "블로러",
+  "en": "Valona",
+  "lon": 19.4838,
+  "lat": 40.4696,
+  "rank": 4
+ },
+ "bitola": {
+  "ko": "비톨라",
+  "en": "Bitola",
+  "lon": 21.3355,
+  "lat": 41.0323,
+  "rank": 4
+ },
+ "mostar": {
+  "ko": "모스타르",
+  "en": "Mostar",
+  "lon": 17.8081,
+  "lat": 43.3433,
+  "rank": 4
+ },
+ "banjaluka": {
+  "ko": "바냐루카",
+  "en": "Banja Luka",
+  "lon": 17.2063,
+  "lat": 44.7788,
+  "rank": 4
+ },
+ "alexandria": {
+  "ko": "알렉산드리아",
+  "en": "Alexandria",
+  "lon": 29.9158,
+  "lat": 31.2018,
+  "rank": 2
+ },
+ "elalamein": {
+  "ko": "엘알라메인",
+  "en": "El Alamein",
+  "lon": 28.95,
+  "lat": 30.83,
+  "rank": 3
+ },
+ "mersamatruh": {
+  "ko": "메르사마트루",
+  "en": "Mersa Matruh",
+  "lon": 27.2372,
+  "lat": 31.3529,
+  "rank": 4
+ },
+ "sidibarrani": {
+  "ko": "시디바라니",
+  "en": "Sidi Barrani",
+  "lon": 25.91,
+  "lat": 31.61,
+  "rank": 4
+ },
+ "sollum": {
+  "ko": "살룸",
+  "en": "Sollum",
+  "lon": 25.16,
+  "lat": 31.57,
+  "rank": 4
+ },
+ "bardia": {
+  "ko": "바르디아",
+  "en": "Bardia",
+  "lon": 25.08,
+  "lat": 31.76,
+  "rank": 4
+ },
+ "tobruk": {
+  "ko": "토브루크",
+  "en": "Tobruk",
+  "lon": 23.9538,
+  "lat": 32.0896,
+  "rank": 3
+ },
+ "gazala": {
+  "ko": "가잘라",
+  "en": "Gazala",
+  "lon": 23.3,
+  "lat": 32.15,
+  "rank": 4
+ },
+ "birhakeim": {
+  "ko": "비르하케임",
+  "en": "Bir Hakeim",
+  "lon": 23.48,
+  "lat": 31.6,
+  "rank": 4
+ },
+ "derna": {
+  "ko": "데르나",
+  "en": "Derna",
+  "lon": 22.6367,
+  "lat": 32.767,
+  "rank": 4
+ },
+ "benghazi": {
+  "ko": "벵가지",
+  "en": "Benghazi",
+  "lon": 20.0686,
+  "lat": 32.1149,
+  "rank": 2
+ },
+ "elagheila": {
+  "ko": "엘아게일라",
+  "en": "El Agheila",
+  "lon": 19.8,
+  "lat": 30.27,
+  "rank": 4
+ },
+ "mersabrega": {
+  "ko": "메르사브레가",
+  "en": "Mersa Brega",
+  "lon": 19.58,
+  "lat": 30.42,
+  "rank": 4
+ },
+ "sirte": {
+  "ko": "시르테",
+  "en": "Sirte",
+  "lon": 16.5887,
+  "lat": 31.2089,
+  "rank": 4
+ },
+ "misurata": {
+  "ko": "미스라타",
+  "en": "Misurata",
+  "lon": 15.0925,
+  "lat": 32.3753,
+  "rank": 4
+ },
+ "gabes": {
+  "ko": "가베스",
+  "en": "Gabès",
+  "lon": 10.0982,
+  "lat": 33.8815,
+  "rank": 4
+ },
+ "mareth": {
+  "ko": "마레트",
+  "en": "Mareth",
+  "lon": 10.3,
+  "lat": 33.62,
+  "rank": 4
+ },
+ "sfax": {
+  "ko": "스팍스",
+  "en": "Sfax",
+  "lon": 10.7603,
+  "lat": 34.7406,
+  "rank": 4
+ },
+ "sousse": {
+  "ko": "수스",
+  "en": "Sousse",
+  "lon": 10.637,
+  "lat": 35.8254,
+  "rank": 4
+ },
+ "kasserine": {
+  "ko": "카세린",
+  "en": "Kasserine",
+  "lon": 8.8365,
+  "lat": 35.1676,
+  "rank": 4
+ },
+ "bizerte": {
+  "ko": "비제르트",
+  "en": "Bizerte",
+  "lon": 9.8739,
+  "lat": 37.2744,
+  "rank": 4
+ },
+ "enfidaville": {
+  "ko": "앙피다빌",
+  "en": "Enfidaville",
+  "lon": 10.38,
+  "lat": 36.13,
+  "rank": 4
+ },
+ "medjez": {
+  "ko": "메제즈엘바브",
+  "en": "Medjez el Bab",
+  "lon": 9.61,
+  "lat": 36.65,
+  "rank": 4
+ },
+ "constantine": {
+  "ko": "콩스탕틴",
+  "en": "Constantine",
+  "lon": 6.6147,
+  "lat": 36.365,
+  "rank": 4
+ },
+ "bone": {
+  "ko": "본",
+  "en": "Bône",
+  "lon": 7.7667,
+  "lat": 36.9,
+  "rank": 4
+ },
+ "oran": {
+  "ko": "오랑",
+  "en": "Oran",
+  "lon": -0.6359,
+  "lat": 35.6991,
+  "rank": 3
+ },
+ "casablanca": {
+  "ko": "카사블랑카",
+  "en": "Casablanca",
+  "lon": -7.6114,
+  "lat": 33.5883,
+  "rank": 2
+ },
+ "portsaid": {
+  "ko": "포트사이드",
+  "en": "Port Said",
+  "lon": 32.3019,
+  "lat": 31.2653,
+  "rank": 4
+ },
+ "suez": {
+  "ko": "수에즈",
+  "en": "Suez",
+  "lon": 32.5263,
+  "lat": 29.9737,
+  "rank": 4
+ },
+ "haifa": {
+  "ko": "하이파",
+  "en": "Haifa",
+  "lon": 34.9993,
+  "lat": 32.813,
+  "rank": 4
+ },
+ "aleppo": {
+  "ko": "알레포",
+  "en": "Aleppo",
+  "lon": 37.1612,
+  "lat": 36.2012,
+  "rank": 3
+ },
+ "mosul": {
+  "ko": "모술",
+  "en": "Mosul",
+  "lon": 43.1189,
+  "lat": 36.335,
+  "rank": 4
+ },
+ "basra": {
+  "ko": "바스라",
+  "en": "Basra",
+  "lon": 47.7804,
+  "lat": 30.5085,
+  "rank": 4
+ },
+ "narvik": {
+  "ko": "나르비크",
+  "en": "Narvik",
+  "lon": 17.4272,
+  "lat": 68.4384,
+  "rank": 3
+ },
+ "trondheim": {
+  "ko": "트론헤임",
+  "en": "Trondheim",
+  "lon": 10.3951,
+  "lat": 63.4305,
+  "rank": 3
+ },
+ "bergen": {
+  "ko": "베르겐",
+  "en": "Bergen",
+  "lon": 5.3242,
+  "lat": 60.393,
+  "rank": 3
+ },
+ "stavanger": {
+  "ko": "스타방에르",
+  "en": "Stavanger",
+  "lon": 5.7333,
+  "lat": 58.9701,
+  "rank": 4
+ },
+ "kristiansand": {
+  "ko": "크리스티안산",
+  "en": "Kristiansand",
+  "lon": 7.9956,
+  "lat": 58.1467,
+  "rank": 4
+ },
+ "tromso": {
+  "ko": "트롬쇠",
+  "en": "Tromsø",
+  "lon": 18.9551,
+  "lat": 69.6489,
+  "rank": 4
+ },
+ "kirkenes": {
+  "ko": "키르케네스",
+  "en": "Kirkenes",
+  "lon": 30.05,
+  "lat": 69.73,
+  "rank": 4
+ },
+ "petsamo": {
+  "ko": "페차모",
+  "en": "Petsamo",
+  "lon": 31.1703,
+  "lat": 69.5259,
+  "rank": 4
+ },
+ "rovaniemi": {
+  "ko": "로바니에미",
+  "en": "Rovaniemi",
+  "lon": 25.6887,
+  "lat": 66.499,
+  "rank": 3
+ },
+ "oulu": {
+  "ko": "오울루",
+  "en": "Oulu",
+  "lon": 25.4682,
+  "lat": 65.0124,
+  "rank": 4
+ },
+ "turku": {
+  "ko": "투르쿠",
+  "en": "Turku",
+  "lon": 22.2687,
+  "lat": 60.4515,
+  "rank": 4
+ },
+ "tampere": {
+  "ko": "탐페레",
+  "en": "Tampere",
+  "lon": 23.7871,
+  "lat": 61.4991,
+  "rank": 4
+ },
+ "vyborg": {
+  "ko": "비푸리",
+  "en": "Viipuri",
+  "lon": 28.7528,
+  "lat": 60.7076,
+  "rank": 3
+ },
+ "hanko": {
+  "ko": "항코",
+  "en": "Hanko",
+  "lon": 22.95,
+  "lat": 59.8333,
+  "rank": 4
+ },
+ "kandalaksha": {
+  "ko": "칸달락샤",
+  "en": "Kandalaksha",
+  "lon": 32.4128,
+  "lat": 67.1512,
+  "rank": 4
+ },
+ "belomorsk": {
+  "ko": "벨로모르스크",
+  "en": "Belomorsk",
+  "lon": 34.7629,
+  "lat": 64.53,
+  "rank": 4
+ },
+ "medvezhyegorsk": {
+  "ko": "메드베지예고르스크",
+  "en": "Karhumäki",
+  "lon": 34.4586,
+  "lat": 62.9145,
+  "rank": 4
+ },
+ "lodeynoyepole": {
+  "ko": "로데이노예폴레",
+  "en": "Lodeynoye Pole",
+  "lon": 33.5606,
+  "lat": 60.7256,
+  "rank": 4
+ },
+ "sortavala": {
+  "ko": "소르타발라",
+  "en": "Sortavala",
+  "lon": 30.7095,
+  "lat": 61.7123,
+  "rank": 4
+ },
+ "gothenburg": {
+  "ko": "예테보리",
+  "en": "Gothenburg",
+  "lon": 11.9668,
+  "lat": 57.7072,
+  "rank": 4
+ },
+ "malmo": {
+  "ko": "말뫼",
+  "en": "Malmö",
+  "lon": 13.0007,
+  "lat": 55.6059,
+  "rank": 4
+ },
+ "aarhus": {
+  "ko": "오르후스",
+  "en": "Aarhus",
+  "lon": 10.2108,
+  "lat": 56.1567,
+  "rank": 4
+ },
+ "dover": {
+  "ko": "도버",
+  "en": "Dover",
+  "lon": 1.3126,
+  "lat": 51.126,
+  "rank": 4
+ },
+ "portsmouth": {
+  "ko": "포츠머스",
+  "en": "Portsmouth",
+  "lon": -1.0913,
+  "lat": 50.799,
+  "rank": 4
+ },
+ "southampton": {
+  "ko": "사우샘프턴",
+  "en": "Southampton",
+  "lon": -1.4043,
+  "lat": 50.904,
+  "rank": 4
+ },
+ "plymouth": {
+  "ko": "플리머스",
+  "en": "Plymouth",
+  "lon": -4.143,
+  "lat": 50.3715,
+  "rank": 4
+ },
+ "birmingham": {
+  "ko": "버밍엄",
+  "en": "Birmingham",
+  "lon": -1.8998,
+  "lat": 52.4814,
+  "rank": 3
+ },
+ "manchester": {
+  "ko": "맨체스터",
+  "en": "Manchester",
+  "lon": -2.2374,
+  "lat": 53.4809,
+  "rank": 3
+ },
+ "liverpool": {
+  "ko": "리버풀",
+  "en": "Liverpool",
+  "lon": -2.9779,
+  "lat": 53.4106,
+  "rank": 3
+ },
+ "glasgow": {
+  "ko": "글래스고",
+  "en": "Glasgow",
+  "lon": -4.2576,
+  "lat": 55.8651,
+  "rank": 3
+ },
+ "edinburgh": {
+  "ko": "에든버러",
+  "en": "Edinburgh",
+  "lon": -3.1965,
+  "lat": 55.9521,
+  "rank": 3
+ },
+ "belfast": {
+  "ko": "벨파스트",
+  "en": "Belfast",
+  "lon": -5.9254,
+  "lat": 54.5968,
+  "rank": 3
+ }
+}
