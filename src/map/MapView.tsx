@@ -32,11 +32,12 @@ export function MapView() {
   const fly = useStore((s) => s.fly);
   const scenario = useMemo(() => scenarioForDate(snapshot), [snapshot]);
 
-  const requestDraw = () => {
+  const requestDraw = (moving = false) => {
     if (frame.current) return;
     frame.current = requestAnimationFrame(() => {
       frame.current = 0;
-      rendererRef.current?.draw();
+      if (moving) rendererRef.current?.drawMoving();
+      else rendererRef.current?.draw();
     });
   };
 
@@ -45,6 +46,7 @@ export function MapView() {
     const wrap = wrapRef.current!, canvas = canvasRef.current!;
     const r = new MapRenderer(canvas);
     rendererRef.current = r;
+    if (import.meta.env.DEV) (window as unknown as { __tk: unknown }).__tk = { r };
     const resize = () => {
       const rect = wrap.getBoundingClientRect();
       r.resize(rect.width, rect.height);
@@ -65,7 +67,7 @@ export function MapView() {
         r.t = ev.transform;
         publishView({ k: ev.transform.k, x: ev.transform.x, y: ev.transform.y, w: r.w, h: r.h });
         useStore.getState().zoomK !== ev.transform.k && useStore.setState({ zoomK: ev.transform.k });
-        requestDraw();
+        requestDraw(true);
       });
     zoomRef.current = z;
     const sel = select(wrap);

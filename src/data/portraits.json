@@ -23,11 +23,27 @@
   "license": "CC BY-SA 4.0",
   "via": "enwiki"
  },
+ "guderian": {
+  "file": "guderian.jpg",
+  "src": "Heinz_Guderian_portrait_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Heinz_Guderian_portrait_(cropped).jpg",
+  "author": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "via": "enwiki"
+ },
  "heitz": {
   "file": "heitz.jpg",
   "src": "Bundesarchiv_Bild_183-2005-0428-501,_Walter_Heitz.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-2005-0428-501,_Walter_Heitz.jpg",
   "author": "Dorneth",
+  "license": "CC BY-SA 3.0 de",
+  "via": "enwiki"
+ },
+ "hoepner": {
+  "file": "hoepner.jpg",
+  "src": "Bundesarchiv_Bild_146-1971-068-10,_Erich_Hoepner.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1971-068-10,_Erich_Hoepner.jpg",
+  "author": "Unknown authorUnknown author",
   "license": "CC BY-SA 3.0 de",
   "via": "enwiki"
  },
@@ -53,6 +69,14 @@
   "page": "https://commons.wikimedia.org/wiki/File:Werner_Kempf_during_the_inspection_of_the_unit_on_the_Eastern_Front_(cropped).jpg",
   "author": "Mahla",
   "license": "Public domain",
+  "via": "enwiki"
+ },
+ "kluge": {
+  "file": "kluge.jpg",
+  "src": "Bundesarchiv_Bild_146-1973-139-14,_Günther_v._Kluge_(cropped)(3).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1973-139-14,_G%C3%BCnther_v._Kluge_(cropped)(3).jpg",
+  "author": "Unknown authorUnknown author",
+  "license": "CC BY-SA 3.0 de",
   "via": "enwiki"
  },
  "knobelsdorff": {

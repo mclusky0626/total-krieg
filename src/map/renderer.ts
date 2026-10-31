@@ -51,6 +51,12 @@ export class MapRenderer {
   private cities: CityLabel[];
   private hitCtx: CanvasRenderingContext2D;
 
+  /** last full-quality frame, reused (transformed) while the view is moving */
+  private cache = document.createElement('canvas');
+  private cacheT: { k: number; x: number; y: number } | null = null;
+  private lastFull = 0;
+  private idleTimer = 0;
+
   constructor(canvas: HTMLCanvasElement) {
     this.canvas = canvas;
     this.ctx = canvas.getContext('2d', { alpha: false })!;
@@ -69,6 +75,34 @@ export class MapRenderer {
     this.canvas.height = Math.round(h * this.dpr);
     this.canvas.style.width = `${w}px`;
     this.canvas.style.height = `${h}px`;
+    this.cache.width = this.canvas.width;
+    this.cache.height = this.canvas.height;
+    this.cacheT = null;
+  }
+
+  /**
+   * Draw for a moving view: blit the cached frame with the relative transform and
+   * schedule a crisp frame once motion pauses (or every ~220 ms during long glides).
+   */
+  drawMoving() {
+    const now = performance.now();
+    if (!this.cacheT || now - this.lastFull > 220) {
+      this.draw(true);
+      window.clearTimeout(this.idleTimer);
+      this.idleTimer = window.setTimeout(() => this.draw(), 140);
+      return;
+    }
+    const { ctx, dpr } = this;
+    const c = this.cacheT;
+    const s = this.t.k / c.k;
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.fillStyle = SEA;
+    ctx.fillRect(0, 0, this.canvas.width, this.canvas.height);
+    ctx.imageSmoothingEnabled = true;
+    ctx.imageSmoothingQuality = 'low';
+    ctx.drawImage(this.cache, dpr * (this.t.x - c.x * s), dpr * (this.t.y - c.y * s), this.cache.width * s, this.cache.height * s);
+    window.clearTimeout(this.idleTimer);
+    this.idleTimer = window.setTimeout(() => this.draw(), 140);
   }
 
   /** screen → world */
@@ -124,7 +158,7 @@ export class MapRenderer {
     return this.opts.strong ? 0.8 - 0.22 * z : 0.52 - 0.3 * z;
   }
 
-  private drawTerritory(layer: SnapLayers, alphaMul: number) {
+  private drawTerritory(layer: SnapLayers, alphaMul: number, lite = false) {
     const ctx = this.ctx;
     const a = this.territoryAlpha() * alphaMul;
     const s = this.dpr * this.t.k;
@@ -138,7 +172,7 @@ export class MapRenderer {
       ctx.fillStyle = `rgba(${r},${g},${b},${fa})`;
       ctx.fill(f.path, 'evenodd');
       const kind = f.s === 'occupied' ? 'hatch' : f.s === 'client' || f.s === 'protectorate' ? 'dots' : f.s === 'annexed' ? 'fine' : null;
-      if (kind) {
+      if (kind && !lite) {
         const pat = this.pattern(kind, info.color, Math.min(1, a * (kind === 'fine' ? 1.1 : 1.6)));
         if (pat) {
           pat.setTransform(new DOMMatrix([1 / s, 0, 0, 1 / s, 0, 0]));
@@ -149,7 +183,8 @@ export class MapRenderer {
     }
   }
 
-  draw() {
+  /** Full frame. `lite` skips the costly detail (hatching, rail ties, minor rivers) while the view moves. */
+  draw(lite = false) {
     const { ctx, dpr } = this;
     const { k, x, y } = this.t;
     ctx.setTransform(1, 0, 0, 1, 0, 0);
@@ -162,15 +197,15 @@ export class MapRenderer {
     if (this.relief) {
       const [bx0, by0, bx1, by1] = this.relief.bounds;
       ctx.imageSmoothingEnabled = true;
-      ctx.imageSmoothingQuality = k > 2 ? 'high' : 'medium';
+      ctx.imageSmoothingQuality = 'medium';
       ctx.drawImage(this.relief.img, bx0, by0, bx1 - bx0, by1 - by0);
     }
     // territory
     if (this.opts.territory) {
       if (this.prev && this.fade < 1) {
-        this.drawTerritory(this.prev, 1 - this.fade);
-        if (this.cur) this.drawTerritory(this.cur, this.fade);
-      } else if (this.cur) this.drawTerritory(this.cur, 1);
+        this.drawTerritory(this.prev, 1 - this.fade, lite);
+        if (this.cur) this.drawTerritory(this.cur, this.fade, lite);
+      } else if (this.cur) this.drawTerritory(this.cur, 1, lite);
     }
     // sea & lakes on top so coasts stay crisp
     ctx.fillStyle = SEA;
@@ -191,7 +226,7 @@ export class MapRenderer {
       ctx.strokeStyle = RIVER;
       const rw = [1.5, 1.0, 0.8, 0.6];
       const rmin = [0, 1.1, 2.4, 4.5];
-      for (let i = 0; i < 4; i++) {
+      for (let i = 0; i < (lite ? 2 : 4); i++) {
         if (k < rmin[i]) continue;
         ctx.globalAlpha = i === 0 ? 0.85 : 0.6 * smooth(rmin[i], rmin[i] * 1.6, k);
         ctx.lineWidth = rw[i] * px * (k > 4 ? 1.15 : 1);
@@ -209,6 +244,7 @@ export class MapRenderer {
         ctx.lineWidth = (i === 0 ? 1.3 : 0.9) * px;
         ctx.setLineDash([]);
         ctx.stroke(this.base.rails[i]);
+        if (lite) continue;
         ctx.lineWidth = (i === 0 ? 4.6 : 3.4) * px;
         ctx.setLineDash([1.1 * px, 5.5 * px]);
         ctx.stroke(this.base.rails[i]);
@@ -267,6 +303,15 @@ export class MapRenderer {
     // cities in screen space
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     if (this.opts.cities) this.drawCities();
+    // keep this frame for drawMoving()
+    const cc = this.cache.getContext('2d');
+    if (cc && this.cache.width === this.canvas.width) {
+      cc.setTransform(1, 0, 0, 1, 0, 0);
+      cc.drawImage(this.canvas, 0, 0);
+      this.cacheT = { k, x, y };
+    }
+    this.lastFull = performance.now();
+    if (!lite) window.clearTimeout(this.idleTimer);
   }
 
   private drawCities() {
